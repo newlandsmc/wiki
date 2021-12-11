@@ -15,7 +15,6 @@ Plugin            |  Type    |      Link       | Maintainer
 Rejoin Rewards    | Custom   | \<insert link\> | Cookie
 ChatCore          | Public   | https://www.spigotmc.org/resources/chat-core-manage-control-format-your-chat-everything-youll-ever-need.97447/ | NA
 EssentialsX       | Public   | https://essentialsx.net/downloads.html | NA
-EssentialsX Chat  | Public   | https://essentialsx.net/downloads.html | NA
 EssentialsX Spawn | Public   | https://essentialsx.net/downloads.html | NA
 Litebans          | Premium  | https://www.spigotmc.org/resources/litebans.3715/ | NA
 LuckPerms         | Public   | https://luckperms.net/download | NA

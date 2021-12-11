@@ -23,8 +23,8 @@ LuckPerms         | Public   | https://luckperms.net/download | NA
 Pl3xMap           | Public   | https://github.com/pl3xgaming/Pl3xMap | NA
 randomspawnplus   | Public   | https://www.spigotmc.org/resources/randomspawnplus-optimized-wild-and-random-spawn-1-8-x-1-15-x.69586/ | NA
 Vault             | Public   | https://www.spigotmc.org/resources/vault.34315/ | NA
-WorldGuard        | Public   | https://dev.bukkit.org/projects/worldguard | NA
-WorldEdit         | Public   | https://dev.bukkit.org/projects/worldedit | NA
+WorldGuard        | Public   | https://builds.enginehub.org/job/worldguard?branch=master | NA
+WorldEdit         | Public   | https://builds.enginehub.org/job/worldedit?branch=master | NA
 
 ## Domains:
 semivanilla.com:

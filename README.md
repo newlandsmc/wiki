@@ -2,6 +2,10 @@
 
 Welcome, this is the administrative wiki for the SemiVanilla Minecraft server.
 
+## Server version:
+
+Paper MC v1.18.1
+
 ## Developers:
 Cookie (Discord: Cookie#8723)
 

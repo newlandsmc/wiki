@@ -22,4 +22,6 @@ To be determined.
 
 ## Notes
 
+Potential overlap of projects:
+
 This might make sense to be part of the rejoin-rewards plugin and join-handler plugin, since they all relate to actions done when a player joins...

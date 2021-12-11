@@ -15,7 +15,7 @@ Destro    | Destro#9563 | destro174
 ## Plugins:
 Plugin            |  Type    |      Link       | Maintainer
 ----------------- | -------- | --------------- | ----------
-Rejoin Rewards    | Custom   | \<insert link\> | Cookie
+Rejoin Rewards    | Custom   | https://github.com/SemiVanilla-MC/RejoinRewards | Cookie
 ChatCore          | Public   | https://www.spigotmc.org/resources/chat-core-manage-control-format-your-chat-everything-youll-ever-need.97447/ | NA
 EssentialsX       | Public   | https://essentialsx.net/downloads.html | NA
 EssentialsX Spawn | Public   | https://essentialsx.net/downloads.html | NA

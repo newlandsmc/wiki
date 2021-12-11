@@ -7,9 +7,10 @@ Welcome, this is the administrative wiki for the SemiVanilla Minecraft server.
 Paper MC v1.18.1
 
 ## Developers:
-Cookie (Discord: Cookie#8723)
-
-Destro (Discord: Destro#9563)
+Developer | Discord
+--------- | -------
+Cookie    | Cookie#8723
+Destro    | Destro#9563
 
 ## Plugins:
 Plugin            |  Type    |      Link       | Maintainer

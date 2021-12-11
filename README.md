@@ -8,6 +8,7 @@ Paper MC v1.18.1
 
 ## Developers:
 Cookie (Discord: Cookie#8723)
+Destro (Discord: Destro#9563)
 
 ## Plugins:
 Plugin            |  Type    |      Link       | Maintainer

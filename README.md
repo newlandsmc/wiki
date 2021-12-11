@@ -21,7 +21,7 @@ EssentialsX Spawn | Public   | https://essentialsx.net/downloads.html | NA
 Litebans          | Premium  | https://www.spigotmc.org/resources/litebans.3715/ | NA
 LuckPerms         | Public   | https://luckperms.net/download | NA
 PlaceholderAPI    | Public   | https://www.spigotmc.org/resources/placeholderapi.6245/ | NA
-Pl3xMap           | Public   | https://github.com/pl3xgaming/Pl3xMap | NA
+Pl3xMap           | Public   | https://github.com/NeumimTo/Pl3xMap | NA
 randomspawnplus   | Public   | https://www.spigotmc.org/resources/randomspawnplus-optimized-wild-and-random-spawn-1-8-x-1-15-x.69586/ | NA
 Vault             | Public   | https://www.spigotmc.org/resources/vault.34315/ | NA
 WorldGuard        | Public   | https://builds.enginehub.org/job/worldguard?branch=master | NA

@@ -15,3 +15,4 @@
 - Random boss mobs that glow, are more difficult to kill, and scale with player level
 - How to make money - ranks, nicknames, what else?
 - Find a land protection plugin
+- Fix respawning at player's home

@@ -19,3 +19,4 @@
 - Need plugin for real sleep
 - Need plugin for vote rewards (ADD TO REJOIN REWARDS - RENAME TO "EXPEDITIONS"?)
 - Need plugin for rpg levels
+- Change MOTD to be pastel colors

@@ -18,6 +18,8 @@ They can use /jreward claim to claim their rejoin rewards.
 
 Any time they join and qualify for a reward, we will just send them a single message in chat telling them to use /jreward claim to claim their rewards. We won't interrupt their game/chat anymore.
 
+The message should say something like "You just completed a __ hour expedition! Claim your spoils with /jreward claim" where the time matches how long they were offline.
+
 ## While Online
 
 A custom leveling system like mcMMO tracks their experience in things like PvP and let's them level up for small buffs. Like more max damage with certain weapons.
@@ -32,4 +34,4 @@ A land protection plugin let's you claim your land and protect it. These claims 
 
 A sleep plugin gives sleeping a purpose on large servers (reduced max # required to sleep? Other side affects of not sleeping - like reduced health?)
 
-A vote system allows you to vote for the server and instantly finish an "expedition" and get a rejoin reward.
+A vote system allows you to vote for the server and instantly finish an "expedition" and get a rejoin reward. The message after voting could be "You just completed an instant expedition! Claim your spoils with /jreward claim"

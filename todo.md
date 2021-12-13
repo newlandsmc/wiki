@@ -7,3 +7,11 @@
 - ~~Need plugin for auto-respawn on death~~ - cancelled since players will respawn at their home it might not be safe.
 - Define blocked words in ChatCore
 - Customize chat formats in ChatCore (for staff chat and what not)
+- Custom McMMO-like leveling system
+- Custom PVP handler - when you die you have a 10 second respawn cooldown, then you respawn right where you died. Your items are still yours, and you have a 60 second PvP buff to get revenge
+- How to handle sleep - nerfing hunger if you don't sleep?
+- How to handle Phantoms
+- Vote system - instant finish expedition (like the rejoin rewards)
+- Random boss mobs that glow, are more difficult to kill, and scale with player level
+- How to make money - ranks, nicknames, what else?
+- Find a land protection plugin

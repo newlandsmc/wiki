@@ -39,3 +39,17 @@ Dynmap (newer better version)
 Random events around the world? Random coordinates? What would the events be?
 
 Random rewards from enemies? Random stronger enemies around the world?
+
+## Discussion with Jess
+
+- Custom McMMO-like leveling system
+- Custom PVP handler - when you die you have a 10 second respawn cooldown, then you respawn right where you died. Your items are still yours, and you have a 60 second PvP buff to get revenge
+- How to handle sleep - nerfing hunger if you don't sleep?
+- How to handle Phantoms
+- Vote system - instant finish expedition (like the rejoin rewards)
+- Random boss mobs that glow, are more difficult to kill, and scale with player level
+- How to make money - ranks, nicknames, what else?
+
+## Discussion with Nathan
+
+- Story that explains why you woke up somewhere randomly near a campfire. (Jess suggests just printing story lines as the player progresses like normal, like tying it to achievements)

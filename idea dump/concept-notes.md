@@ -18,9 +18,7 @@ Moved here - [player-flow.md](player-flow.md)
 
 ## Rejoin Experience
 
-When you rejoin a second time then a message appears on your screen welcoming you back.
-
-Chat is enabled when you rejoin?
+Moved here - [player-flow.md](player-flow.md)
 
 ## Homes
 
@@ -36,9 +34,7 @@ Dynmap (newer better version)
 
 ## World events
 
-Random events around the world? Random coordinates? What would the events be?
-
-Random rewards from enemies? Random stronger enemies around the world?
+Moved here - [player-flow.md](player-flow.md)
 
 ## Discussion with Jess
 

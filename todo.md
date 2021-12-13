@@ -16,3 +16,4 @@
 - How to make money - ranks, nicknames, what else?
 - Find a land protection plugin
 - Fix respawning at player's home
+- Find a way to make the enderdragon respawn - cooldown? (reset world downside - removes players builds)

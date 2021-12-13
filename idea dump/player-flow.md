@@ -32,6 +32,11 @@ If you die normally, you respawn at your home (Essentials home).
 
 A land protection plugin let's you claim your land and protect it. These claims expire after 6 months of being offline.
 
-A sleep plugin gives sleeping a purpose on large servers (reduced max # required to sleep? Other side affects of not sleeping - like reduced health?)
+A sleep plugin gives sleeping a purpose on large servers - your max health is reduced by 1 heart 3 nights that you don't sleep. The hearts are removed at dawn, you take instant damage to cause the "take damage sound" and a message appears in chat that says "You grow weaker due to lack of sleep...".
+
+Phantoms are disabled.
 
 A vote system allows you to vote for the server and instantly finish an "expedition" and get a rejoin reward. The message after voting could be "You just completed an instant expedition! Claim your spoils with /jreward claim"
+
+The enderdragon randomly spawns somewhere in the end and compasses in the end point to the enderdragon. The enderdragon drops great rewards?
+

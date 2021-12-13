@@ -2,19 +2,19 @@
 
 ## Overview
 
-This plugin will mute the chat when a player first joins so they can focus on the story messages provided to them in chat. It will also mute it when they join a second time, for the same reason. It will also be the plugin to provide those story messages?
+This plugin handles sending players the story messages by muting chat and working through a queue of messages. This is a plugin that other plugins hook into to leverage this functionality.
 
 ## Behavior
 
-To be determined.
+Admin can configure a list of messsages to be sent, and a cooldown between each one. When these are triggered for a player, this plugin clears the chat, mutes the chat, and starts printing the messages. After the first message, it prints a line that informs the player they can skip this (or unmute chat?) by typing /skip. Each time they type /skip it prints the next message. If they skip the final message, it unmutes the chat.
 
 ## Commands
 
-- \<chat unmute\>
+- /skip
 
 ## Messages
 
-To be determined.
+- "You can unmute chat by typing /skip."
 
 ## Config
 
@@ -22,6 +22,6 @@ To be determined.
 
 ## Notes
 
-Potential overlap of projects:
+Logical separation of plugins:
 
-This might make sense to be part of the rejoin-rewards plugin and join-handler plugin, since they all relate to actions done when a player joins...
+Cookie is working on determining how all of these plugins (story-mode, rejoin-rewards, join-handler) will be split up so they can reference each other and be easy to manage/maintain.

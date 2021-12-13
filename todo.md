@@ -17,3 +17,4 @@
 - Find a land protection plugin
 - Fix respawning at player's home
 - Find a way to make the enderdragon respawn - cooldown? (reset world downside - removes players builds)
+    - what if the dragon spawned randomly within the end and compasses in the end pointed to the dragon?

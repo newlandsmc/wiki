@@ -1,40 +1,35 @@
 # Player Flow
-
 What should a player's day-to-day experience on the server be?
 
 ## First Join
+When a player first joins the server, they spawn somewhere random within the survival overworld. A campfire is spawned near them, with a chest containing starter items. The campfire remains there until they log off. After that, only the chest remains.
 
-When a player first joins the server, they spawn somewhere random within the survival overworld. This should feel like they are just waking up for the first time somewhere strange, they don't know where they are or how they got there.
+Note: If they don't take down their campfire, it will indicate to other players who find it that a new player spawned there recently.
 
-It might be cool to spawn a campfire near them that if they don't take down will indicate to others that someone has recently spawned there? Issue: Campfire littering the world after a while. Potential solution: Auto-remove campfires, or have pre-set campfires to use for all spawns?
-
-Also might spawn a chest near them that has some basic essentials?
-
-They should get a book, whether in their inventory, or in a chest, that initiates the story? Issue: players don't tend to read books.
-
-Chat will be disabled when they first join so they don't get distracted by the chat and can be immersed in the story more. The messages when they first join should be:
-- You awake somewhere strange.
-- What is that book in your inventory?
-- (Chat is disabled. You can enable it with "/chat enable")
-
-\<We should add more to this first-join experience to make it more rail-roaded and story-driven\>
+Chat will be disabled when they first join so they don't get distracted by the chat and can be immersed in the story more. Messages will be sent when they first join to establish the story. The story is broken up into a queue of messages to be sent, with a delay between each one. The player is told they can do /skip to skip the story. Each time they run the command it prints the next line in the queue until they reach the end of the story and then it unmutes chat.
 
 ## Second Join
 
-It might be necessary, on a player's first re-join when that they qualify for a reward, to again disable the chat and provide some story elements that explain what the reward is and how they get it. Maybe chat will automatically enable after a few seconds of these story messages being sent?
+On their first reward-eligible join the chat is muted again and they are provided more story messages that explain what the "expedition spoils" are. Again, they can use /skip to skip the story and unmute the chat.
 
-Messages:
-- You found gold while you were away!
-- When you log off, your character goes on an expedition and can return with spoils
-- The longer you are away, the longer the expedition, and the better the spoils (up to 48 hours)
-- Use /jrewards claim to claim your spoils!
+They can use /jreward claim to claim their rejoin rewards. 
 
 ## Subsequent Joins
 
-Any time they join and qualify for a reward, they should somehow know to claim it. We don't want to lose the experience/story we've built the first 2 times they joined, but we don't want to interrupt their gameplay anymore.
+Any time they join and qualify for a reward, we will just send them a single message in chat telling them to use /jreward claim to claim their rewards. We won't interrupt their game/chat anymore.
 
-## World Behavior
+## While Online
 
-Random mob spawns should be "bosses" that are harder to kill and drop better rewards. Can we make the "bosses" more difficult depending on who it spawned near? (Based on their experience level)
+A custom leveling system like mcMMO tracks their experience in things like PvP and let's them level up for small buffs. Like more max damage with certain weapons.
 
-Some sort of mystery that needs to be solved, or somehow told throughout their playtime, that explains WHY they randomly woke up somewhere strange?
+Random mob spawns are turned into "bosses" - they glow, they are harder to kill, and they drop better rewards. Their difficulty scales depending on who it spawned near (based on their PvE level)
+
+A custom PvP system means that whenever you are killed, there is a 10 second respawn cooldown. You will respawn where you died and receive a large skills buff that gives you the advantage over the killer in case you want to get revenge. Your items are also protected so you will get your items back.
+
+If you die normally, you respawn at your home (Essentials home).
+
+A land protection plugin let's you claim your land and protect it. These claims expire after 6 months of being offline.
+
+A sleep plugin gives sleeping a purpose on large servers (reduced max # required to sleep? Other side affects of not sleeping - like reduced health?)
+
+A vote system allows you to vote for the server and instantly finish an "expedition" and get a rejoin reward.

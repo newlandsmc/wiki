@@ -11,6 +11,9 @@
 - Define blocked words in ChatCore
 - Customize chat formats in ChatCore (for staff chat and what not)
 - How to make money - ranks, nicknames, what else?
+    - 3 ranks - $10, $20, $30
+    - Player trackers - $5 for 5
+    - Pay to vote - $100 to get the daily reward forever
 - ~~Find a land protection plugin~~
     - Configure GriefPrevention
 - Fix respawning at player's home
@@ -19,4 +22,5 @@
 - Need plugin for real sleep
 - Need plugin for vote rewards (ADD TO REJOIN REWARDS - RENAME TO "EXPEDITIONS"?)
 - Need plugin for rpg levels
+- Need plugin for player trackers (PTW item)
 - Change MOTD to be pastel colors

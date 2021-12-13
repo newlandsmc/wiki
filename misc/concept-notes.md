@@ -49,3 +49,8 @@ Moved here - [player-flow.md](player-flow.md)
 ## Discussion with Nathan
 
 - Story that explains why you woke up somewhere randomly near a campfire. (Jess suggests just printing story lines as the player progresses like normal, like tying it to achievements)
+
+## Discussion with Clay and Doom
+
+- Player traps are not allowed
+- All dropped items are protected so only the original player can pick them up

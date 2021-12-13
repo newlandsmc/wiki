@@ -26,7 +26,9 @@ A custom leveling system like mcMMO tracks their experience in things like PvP a
 
 Random mob spawns are turned into "bosses" - they glow, they are harder to kill, and they drop better rewards. Their difficulty scales depending on who it spawned near (based on their PvE level)
 
-A custom PvP system means that whenever you are killed, there is a 10 second respawn cooldown. You will respawn where you died and receive a large skills buff that gives you the advantage over the killer in case you want to get revenge. Your items are also protected so you will get your items back.
+A custom PvP system means that whenever you are killed, there is a 10 second respawn cooldown. You will respawn where you died and receive a large skills buff that gives you the advantage over the killer in case you want to get revenge. 
+
+Your items are protected when you die, so only you can pick them up
 
 If you die normally, you respawn at your home (Essentials home).
 

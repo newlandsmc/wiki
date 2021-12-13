@@ -24,3 +24,10 @@
 - Need plugin for rpg levels
 - Need plugin for player trackers (PTW item)
 - Change MOTD to be pastel colors
+- Discuss custom crafting recipes
+- Figre out how to handle staff wanting to play
+    - Staff enable/disable command ? 
+- Figure out claim limits and buffers
+    - Staff will give you more claim blocks if you need them, not automated
+    - Can we have a buffer around claims and notify players if they are building too close to someone else
+- Do we need a worldborder? Do we need to pre-render the world? 

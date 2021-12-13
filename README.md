@@ -21,6 +21,7 @@ CustomMOTD                  | Custom   | https://github.com/SemiVanilla-MC/Custo
 DisableAdvanceAnnouncements | Custom   | https://github.com/SemiVanilla-MC/DisableAdvanceAnnouncements | Destro174
 ChatCore                    | Public   | https://www.spigotmc.org/resources/chat-core-manage-control-format-your-chat-everything-youll-ever-need.97447/ | NA
 EssentialsX                 | Public   | https://essentialsx.net/downloads.html | NA
+GriefPrevention             | Public   | https://ci.appveyor.com/project/RoboMWM39862/griefprevention/builds/41849798 | NA
 Litebans                    | Premium  | https://www.spigotmc.org/resources/litebans.3715/ | NA
 LuckPerms                   | Public   | https://luckperms.net/download | NA
 PlaceholderAPI              | Public   | https://www.spigotmc.org/resources/placeholderapi.6245/ | NA

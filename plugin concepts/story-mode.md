@@ -18,7 +18,13 @@ Admin can configure a list of messsages to be sent, and a cooldown between each 
 
 ## Config
 
-To be determined.
+Messages:
+- 1:
+  - message: "this is the first message"
+  - delay: 1
+- 2:
+  - message: "this is the second message"
+  - delay: 4
 
 ## Notes
 

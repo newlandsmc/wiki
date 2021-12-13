@@ -4,6 +4,8 @@
 
 **NEW 12/12/2021: "A vote system allows you to vote for the server and instantly finish an "expedition" and get a rejoin reward. The message after voting could be "You just completed an instant expedition! Claim your spoils with /jreward claim""**
 
+**NEW 12/12/2021: Pay to vote - $100 to get the daily reward forever"**
+
 **NEW 12/12/2021: "Rename to "Expeditions"?"**
 
 Plugin tracks how long a player has been offline and rewards them when with "random" items when they return. The reward gets larger the longer they've been gone.

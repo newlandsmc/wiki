@@ -31,3 +31,8 @@
     - Staff will give you more claim blocks if you need them, not automated
     - Can we have a buffer around claims and notify players if they are building too close to someone else
 - Do we need a worldborder? Do we need to pre-render the world? 
+- Set up player permissions
+- Establish rules around limited resources
+    - You can't restrict access to end portals
+    - 30 second delay breaking spawners and chests with a message asking them not to? 
+    - Regenerating chunks in end and nether? 

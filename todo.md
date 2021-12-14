@@ -15,16 +15,16 @@
     - Player trackers - $5 for 5
     - Pay to vote - $100 to get the daily reward forever
 - ~~Find a land protection plugin~~
-    - Configure GriefPrevention
-- Fix respawning at player's home
+    - ~~Configure GriefPrevention~~
+- ~~Fix respawning at player's home~~
 - Need plugin for boss mobs
 - Need plugin for custom pvp
 - Need plugin for real sleep
 - Need plugin for vote rewards (ADD TO REJOIN REWARDS - RENAME TO "EXPEDITIONS"?)
 - Need plugin for rpg levels
 - Need plugin for player trackers (PTW item)
-- Change MOTD to be pastel colors
-- Discuss custom crafting recipes
+- ~~Change MOTD to be pastel colors~~
+- ~~Discuss custom crafting recipes~~
 - Figre out how to handle staff wanting to play
     - Staff enable/disable command ? 
 - Figure out claim limits and buffers

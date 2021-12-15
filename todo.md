@@ -35,4 +35,5 @@
 - Establish rules around limited resources
     - You can't restrict access to end portals
     - 30 second delay breaking spawners and chests with a message asking them not to? 
-    - Regenerating chunks in end and nether? 
+    - Regenerating chunks in end and nether?
+- Figure out how to prevent buff abusing (from pvp)

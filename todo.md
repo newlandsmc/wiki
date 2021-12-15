@@ -37,3 +37,4 @@
     - 30 second delay breaking spawners and chests with a message asking them not to? 
     - Regenerating chunks in end and nether?
 - Figure out how to prevent buff abusing (from pvp)
+    - Make buff damage only apply to players

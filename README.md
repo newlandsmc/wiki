@@ -26,6 +26,7 @@ Litebans                    | Premium  | https://www.spigotmc.org/resources/lite
 LuckPerms                   | Public   | https://luckperms.net/download | NA
 PlaceholderAPI              | Public   | https://www.spigotmc.org/resources/placeholderapi.6245/ | NA
 Pl3xMap                     | Public   | https://github.com/NeumimTo/Pl3xMap | NA
+ProtocolLib                 | Public   | https://ci.dmulloy2.net/job/ProtocolLib/lastSuccessfulBuild/ | NA
 JakesRTP                    | Public   | https://www.spigotmc.org/resources/jakes-rtp.80201/ | NA
 Vault                       | Public   | https://www.spigotmc.org/resources/vault.34315/ | NA
 WorldGuard                  | Public   | https://builds.enginehub.org/job/worldguard?branch=master | NA

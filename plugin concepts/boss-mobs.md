@@ -8,7 +8,7 @@
 
 ## Behavior
 
-TBD
+The enderdragon should only spawn above islands, if possible.
 
 ## Commands
 

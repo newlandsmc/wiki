@@ -23,9 +23,13 @@ ChatCore                    | Public   | https://www.spigotmc.org/resources/chat
 CoreProtect                 | Public   | https://www.spigotmc.org/resources/coreprotect.8631/ | NA
 EssentialsX                 | Public   | https://essentialsx.net/downloads.html | NA
 GriefPrevention             | Public   | https://ci.appveyor.com/project/RoboMWM39862/griefprevention/builds/41849798 | NA
+HolographicDisplays         | Public   | https://dev.bukkit.org/projects/holographic-displays | NA
 JakesRTP                    | Public   | https://www.spigotmc.org/resources/jakes-rtp.80201/ | NA
 Litebans                    | Premium  | https://www.spigotmc.org/resources/litebans.3715/ | NA
 LuckPerms                   | Public   | https://luckperms.net/download | NA
+MMOCore                     | Premium  | https://mythiccraft.io/index.php?pages/official-mythicmmo-purchase/ | NA
+MythicLib                   | Public   | https://www.spigotmc.org/resources/mythiclib.90306/ | NA
+MythicMobs                  | Premium  | https://mythiccraft.io/index.php?pages/official-mythicmobs-download/ | NA
 Pl3xMap                     | Public   | https://github.com/NeumimTo/Pl3xMap | NA
 PlaceholderAPI              | Public   | https://www.spigotmc.org/resources/placeholderapi.6245/ | NA
 PremiumVanish               | Premium  | https://www.spigotmc.org/resources/premiumvanish-stay-hidden-bungee-support.14404/ | NA

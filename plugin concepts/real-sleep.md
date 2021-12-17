@@ -6,6 +6,8 @@
 
 "Phantoms are disabled."
 
+"The amount of players that need to sleep should be configurable. Possible messages in chat that say how many players are sleeping and how many still need to sleep?"
+
 ## Behavior
 
 TBD

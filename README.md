@@ -13,8 +13,8 @@ Cookie    | Cookie#8723 | GoldenCookieGIT
 Destro    | Destro#9563 | destro174
 
 ## Plugins:
-Plugin          |   Type   |  Main Page  | Dev Build | Maintainer
---------------- | -------- | ----------- | --------- | -------------
+Plugin                      |   Type   |  Main Page  | Dev Build | Maintainer
+--------------------------- | -------- | ----------- | --------- | -------------
 Rejoin Rewards              | Custom   | https://github.com/SemiVanilla-MC/RejoinRewards | | Cookie
 AFKDetector                 | Custom   | https://github.com/SemiVanilla-MC/AFKDetector | | Destro174
 CustomMOTD                  | Custom   | https://github.com/SemiVanilla-MC/CustomMOTD | | Destro174

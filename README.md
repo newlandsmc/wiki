@@ -19,10 +19,10 @@ Rejoin Rewards              | Custom   | https://github.com/SemiVanilla-MC/Rejoi
 AFKDetector                 | Custom   | https://github.com/SemiVanilla-MC/AFKDetector | | Destro174
 CustomMOTD                  | Custom   | https://github.com/SemiVanilla-MC/CustomMOTD | | Destro174
 DisableAdvanceAnnouncements | Custom   | https://github.com/SemiVanilla-MC/DisableAdvanceAnnouncements | | Destro174
-ChatCore                    | Public   | https://www.spigotmc.org/resources/chat-core-manage-control-format-your-chat-everything-youll-ever-need.97447/ | NA
+ChatCore                    | Public   | https://www.spigotmc.org/resources/chat-core-manage-control-format-your-chat-everything-youll-ever-need.97447/ | | NA
 CoreProtect                 | Public   | https://www.spigotmc.org/resources/coreprotect.8631/ | | NA
 EssentialsX                 | Public   | https://essentialsx.net/downloads.html | | NA
-GriefPrevention             | Public   | | https://ci.appveyor.com/project/RoboMWM39862/griefprevention/builds/41849798 | | NA
+GriefPrevention             | Public   | | https://ci.appveyor.com/project/RoboMWM39862/griefprevention/builds/41849798 | NA
 HolographicDisplays         | Public   | https://dev.bukkit.org/projects/holographic-displays | https://ci.codemc.io/job/filoghost/job/HolographicDisplays/ | NA
 JakesRTP                    | Public   | https://www.spigotmc.org/resources/jakes-rtp.80201/ | | NA
 Litebans                    | Premium  | https://www.spigotmc.org/resources/litebans.3715/ | | NA

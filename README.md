@@ -19,6 +19,7 @@ Rejoin Rewards              | Custom   | https://github.com/SemiVanilla-MC/Rejoi
 AFKDetector                 | Custom   | https://github.com/SemiVanilla-MC/AFKDetector | | Destro174
 CustomMOTD                  | Custom   | https://github.com/SemiVanilla-MC/CustomMOTD | | Destro174
 DisableAdvanceAnnouncements | Custom   | https://github.com/SemiVanilla-MC/DisableAdvanceAnnouncements | | Destro174
+BuycraftX                   | Public   | https://server.tebex.io/ | | NA
 ChatCore                    | Public   | https://www.spigotmc.org/resources/chat-core-manage-control-format-your-chat-everything-youll-ever-need.97447/ | | NA
 CoreProtect                 | Public   | https://www.spigotmc.org/resources/coreprotect.8631/ | | NA
 EssentialsX                 | Public   | https://essentialsx.net/downloads.html | | NA

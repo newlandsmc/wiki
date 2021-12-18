@@ -12,10 +12,13 @@
 - Stonecutter can craft sand from sandstone and all variants, and gravel from stone of all types
 - Chain recipe produces 4 chains
 - Chainmail can be crafted from chains
+- Glass bottles smelt into glass blocks
+- String can be crafted from white wool
+- Cobweb can be crafted from string and slimeballs
 
 ## Loot Tables:
-- Loot chests are modified and generally improved
-- Ender dragon drops a dragon egg, and a several other items like elytra, diamond armor or sword, etc
+- Loot chests are modified and generally improved **in progress**
+- Ender dragon drops a dragon egg, an elytra, and four random enchanted netherite tools and armor pieces
 
 ## Composter: _(not done)_
 - _Sticks_

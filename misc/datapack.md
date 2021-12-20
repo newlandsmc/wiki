@@ -10,7 +10,6 @@
 - Charcoal can be crafted into coal blocks and black dye
 - Concrete powder can be crafted into concrete using ice
 - Stonecutter can craft sand from sandstone and all variants, and gravel from stone of all types
-- Chain recipe produces 4 chains
 - Chainmail can be crafted from chains
 - Glass bottles smelt into glass blocks
 - String can be crafted from white wool

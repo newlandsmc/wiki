@@ -24,18 +24,16 @@ ChatCore                    | Public   | https://www.spigotmc.org/resources/chat
 CoreProtect                 | Public   | https://www.spigotmc.org/resources/coreprotect.8631/ | | NA
 EssentialsX                 | Public   | https://essentialsx.net/downloads.html | | NA
 GriefPrevention             | Public   | | https://ci.appveyor.com/project/RoboMWM39862/griefprevention/builds/41849798 | NA
-HolographicDisplays         | Public   | https://dev.bukkit.org/projects/holographic-displays | https://ci.codemc.io/job/filoghost/job/HolographicDisplays/ | NA
 JakesRTP                    | Public   | https://www.spigotmc.org/resources/jakes-rtp.80201/ | | NA
 Litebans                    | Premium  | https://www.spigotmc.org/resources/litebans.3715/ | | NA
 LuckPerms                   | Public   | https://luckperms.net/download | | NA
-MMOCore                     | Premium  | https://mythiccraft.io/index.php?pages/official-mythicmmo-purchase/ | | NA
-MythicLib                   | Public   | https://www.spigotmc.org/resources/mythiclib.90306/ | | NA
+mcMMO                       | Premium  | https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/ | | NA
 MythicMobs                  | Premium  | https://mythiccraft.io/index.php?pages/official-mythicmobs-download/ | | NA
 Pl3xMap                     | Public   | https://github.com/NeumimTo/Pl3xMap | | NA
 PlaceholderAPI              | Public   | https://www.spigotmc.org/resources/placeholderapi.6245/ | | NA
 PremiumVanish               | Premium  | https://www.spigotmc.org/resources/premiumvanish-stay-hidden-bungee-support.14404/ | | NA
 ProtocolLib                 | Public   | | https://ci.dmulloy2.net/job/ProtocolLib/lastSuccessfulBuild/ | NA
-TitleManager                | Public   | https://www.spigotmc.org/resources/titlemanager.1049/ | | NA
+TabList                     | Public   | https://www.spigotmc.org/resources/animated-tab-tablist.46229/ | | NA
 Vault                       | Public   | https://www.spigotmc.org/resources/vault.34315/ | | NA
 WorldEdit                   | Public   | | https://builds.enginehub.org/job/worldedit?branch=master | NA
 

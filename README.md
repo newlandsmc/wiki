@@ -23,7 +23,7 @@ BuycraftX                   | Public   | https://server.tebex.io/ | | NA
 ChatCore                    | Public   | https://www.spigotmc.org/resources/chat-core-manage-control-format-your-chat-everything-youll-ever-need.97447/ | | NA
 CoreProtect                 | Public   | https://www.spigotmc.org/resources/coreprotect.8631/ | | NA
 EssentialsX                 | Public   | https://essentialsx.net/downloads.html | | NA
-GriefPrevention             | Public   | | https://ci.appveyor.com/project/RoboMWM39862/griefprevention/builds/41849798 | NA
+GriefPrevention             | Public   | | https://ci.appveyor.com/project/RoboMWM39862/griefprevention/history | NA
 JakesRTP                    | Public   | https://www.spigotmc.org/resources/jakes-rtp.80201/ | | NA
 Litebans                    | Premium  | https://www.spigotmc.org/resources/litebans.3715/ | | NA
 LuckPerms                   | Public   | https://luckperms.net/download | | NA

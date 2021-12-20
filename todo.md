@@ -21,7 +21,7 @@
 - Need plugin for custom pvp
 - Need plugin for real sleep
 - Need plugin for vote rewards (ADD TO REJOIN REWARDS - RENAME TO "EXPEDITIONS"?)
-- Need plugin for rpg levels
+- ~~Need plugin for rpg levels~~
 - Need plugin for player trackers (PTW item)
 - ~~Change MOTD to be pastel colors~~
 - ~~Discuss custom crafting recipes~~

@@ -12,12 +12,17 @@ Preferably, this plugin would make writing MOTDs easier by providing 2 lines tha
 
 The plugin stores which MOTD is active and applies that MOTD on startup automatically every time. It does NOT always revert back to default.
 
+**NEW**: Counter based MOTDs let us sell mcMMO perks in the store and update the MOTD to show when they are active. Each time a boost is purchased, the store will execute the command to increase the MOTD counter by 1, and each time one expires it will reduce the counter by 1. This way, when they all expire, the MOTD returns back to normal. The ability to have multiple counter-based MOTDs is preferable - a weight system can be used to determine which one to show.
+
 ## Commands
 
 - /custommotd list (permission: custommotd.list)
 - /custommotd check (permission: custommotd.list)
 - /custommotd apply \<motd name\> (permission: custommotd.apply)
 - /custommotd default (permission: custommotd.apply)
+- /custommotd counter up
+- /custommotd counter down
+- /custommotd counter check
 
 ## Messages
 
@@ -37,6 +42,12 @@ Custom:
 - SomeEvent
     - "Join us!"
     - "For an awesome event!"
+
+Counter:
+- CustomCounter1
+    - "This is line one again"
+    - "This is line &l2&r again"
+    - Weight: 1
 
 ## Notes
 

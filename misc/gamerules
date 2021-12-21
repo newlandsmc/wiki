@@ -1,0 +1,8 @@
+# Gamerules To Set on the Server
+
+announceAdvancements - false (global)
+spawnRadius - 3000 (world)
+showDeathMessages - false (global)
+playerSleepingPercentage - 50 (global?)
+maxEntityCramming - 8 (global)
+doInsomnia - false (global?)

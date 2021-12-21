@@ -25,6 +25,7 @@
     - Fix commands
     - Improve counter system (multiple potential counter-based MOTDs somehow?)
 - Remove trailing colon from mentions in ChatCore
+- Rename "SemiCore" to "CookieCore"
 
 
 ## Coding - new:

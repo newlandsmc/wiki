@@ -39,4 +39,10 @@ I'd like to get more heads on this concept and figure out if there's room for im
 
 Should AFK be visible to others?:
 
-Currently, this plugin will only track player's AFK status silently, for the specific purpose of kicking people who are AFK. We could look into whether it would be useful to players to see announcements when someone goes AFK, or show AFK status in /list or in TAB? 
+Currently, this plugin will only track player's AFK status silently, for the specific purpose of kicking people who are AFK. We could look into whether it would be useful to players to see announcements when someone goes AFK, or show AFK status in /list or in TAB?
+
+Destro's improvements:
+
+Destro is aware of some exploits that exist in the current AFKDetector plugin
+- Players can move/talk in a specific order to bypass it
+- AFK pools have changed in the last 4 years.

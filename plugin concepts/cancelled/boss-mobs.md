@@ -1,5 +1,11 @@
 # Boss Mobs
 
+## Cancellation Reason:
+
+We will attempt to use MythicMobs for this.
+
+------------------------
+
 ## Overview
 
 "Random mob spawns are turned into "bosses" - they glow, they are harder to kill, and they drop better rewards. Their difficulty scales depending on who it spawned near (based on their PvE level)"

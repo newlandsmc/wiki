@@ -46,6 +46,10 @@
  
 ## Testing:
 
+- Test Expeditions plugin for exploits
+- Test mcMMO leveling
+- Test mcMMO exploit fixes
+
 --------------------
 
 ## Outdate To-Do List:

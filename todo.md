@@ -53,9 +53,11 @@
 - Test mcMMO leveling
 - Test mcMMO exploit fixes
 
+
 --------------------
 
-## Outdate To-Do List:
+
+## Outdated To-Do List:
 
 - ~~Need plugin for custom join/leave messages~~
 - ~~Need plugin for custom MOTD & changing MOTD real-time~~

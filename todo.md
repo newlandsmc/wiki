@@ -2,22 +2,25 @@
 
 ## Configuring
 - Configure rewards in Expeditions
-- Configure MythicMobs
+- Configure MythicMobs _- started by Sarah_
     - Figure out mcMMO integration with MythicMobs
-- Create premium ranks and add them to the store
+- Create premium ranks and add them to the store _- started by Braydon_
     - Need names, art, and prices
-- Improve loot chests with datapack
+- Improve loot chests with datapack _- started by Sarah_
 
 ## Coding - improvements:
 
+- Fix JoinHandler plugin _- started by Cookie_
+    - player name variable doesn't work in leave messages
+    - Schematic doesn't spawn on player join when using JakesRTP
 - Improve story messages
     - Add blank lines between story messages
     - Mute chat during story messages
     - Add "use /skip to skip" message during story messages (where/how will this be added?)
-- Improve DisableAdvancement plugin
+- Improve DisableAdvancement plugin _- started by Destro_
     - Add config for adding any Gamerule we want to set and the desired value
     - Rename to "GamruleModifier"
-- Improve CustomMOTD plugin
+- Improve CustomMOTD plugin _- started by Destro_
     - Update to 1.18.1
     - Fix commands
     - Improve counter system (multiple potential counter-based MOTDs somehow?)

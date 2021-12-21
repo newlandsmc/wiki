@@ -2,7 +2,7 @@
 
 ## Cancellation Reason:
 
-We will attempt to use MythicMobs for this.
+We will attempt to use mcMMO for this.
 
 ------------------------
 ## Overview

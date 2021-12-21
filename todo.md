@@ -35,6 +35,9 @@
     - Configurable cooldown between respawns
     - Compasses in the end point to the dragon
 - Write new AFKDetector plugin
+    - Updated AFK pool detection
+    - Fix known exploits
+    - Rename to "AdvancedAFK"
 - Write player-tracker plugin
     - Custom in-game item can be given to players (glowing Compass with custom name/description)
     - Custom item points to nearest player once activate (right click)

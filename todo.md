@@ -19,7 +19,7 @@
     - Add "use /skip to skip" message during story messages (where/how will this be added?)
 - Improve DisableAdvancement plugin _- started by Destro_
     - Add config for adding any Gamerule we want to set and the desired value
-    - Rename to "GamruleModifier"
+    - Rename to "GamruleManager"
 - Improve CustomMOTD plugin _- started by Destro_
     - Update to 1.18.1
     - Fix commands

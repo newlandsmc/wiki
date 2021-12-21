@@ -2,9 +2,9 @@
 
 ## Overview
 
-This plugin sets the announce-advancements gamerule to FALSE for every world on server startup, every time. This is needed because advancement announcements can only be disabled via a gamerule, which is somewhat volatile and can be reset under the right conditions. We want to make sure this is ALWAYS set to false.
+**NEW 12/20/21: We want to rename this to "GameruleManager" and add a config so we can configure any gamerule and it's desired state.**
 
-**NEW**: We want to rename this to "GameruleManager" and add a config so we can configure any gamerule and it's desired state.
+This plugin sets the announce-advancements gamerule to FALSE for every world on server startup, every time. This is needed because advancement announcements can only be disabled via a gamerule, which is somewhat volatile and can be reset under the right conditions. We want to make sure this is ALWAYS set to false.
 
 ## Behavior
 

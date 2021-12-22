@@ -4,8 +4,10 @@
 - Configure rewards in Expeditions
 - Configure MythicMobs _- started by Sarah_
     - Figure out mcMMO integration with MythicMobs
-- Create premium ranks and add them to the store _- started by Braydon_
-    - Need names, art, and prices
+- Commission art for Buycraft
+- Create mcMMO custom MOTD when CustomMOTD plugin is finished
+- Configure buycraft items to run customMOTD commands
+- Integrate buycraft with Discord
 - Improve loot chests with datapack _- started by Sarah_
 
 ## Coding - improvements:
@@ -66,38 +68,23 @@
 
 ## Outdated To-Do List:
 
-- ~~Need plugin for custom join/leave messages~~
-- ~~Need plugin for custom MOTD & changing MOTD real-time~~
-    - Update CustomMOTD plugin
-- ~~Need plugin to disable advancement announcements on every startup~~
-    - Update DisableAdvancement plugin
-- ~~Need plugin for advanced AFK detection ?~~
-    - Update AFKDetector plugin
-- ~~Need plugin for auto-respawn on death~~ --- Cancelled since players will respawn at their home it might not be safe.
 - Define blocked words in ChatCore
 - Customize chat formats in ChatCore (for staff chat and what not)
 - How to make money - ranks, nicknames, what else?
     - 3 ranks - $10, $20, $30
     - Player trackers - $5 for 5
     - Pay to vote - $100 to get the daily reward forever
-- ~~Find a land protection plugin~~
-    - ~~Configure GriefPrevention~~
-- ~~Fix respawning at player's home~~
 - Need plugin for boss mobs
 - Need plugin for custom pvp
 - Need plugin for real sleep
 - Need plugin for vote rewards (ADD TO REJOIN REWARDS - RENAME TO "EXPEDITIONS"?)
-- ~~Need plugin for rpg levels~~
 - Need plugin for player trackers (PTW item)
-- ~~Change MOTD to be pastel colors~~
-- ~~Discuss custom crafting recipes~~
 - Figre out how to handle staff wanting to play
     - Staff enable/disable command ? 
 - Figure out claim limits and buffers
     - Staff will give you more claim blocks if you need them, not automated
     - Can we have a buffer around claims and notify players if they are building too close to someone else
 - Do we need a worldborder? Do we need to pre-render the world? 
-- ~~Set up player permissions~~
 - Establish rules around limited resources
     - You can't restrict access to end portals
     - 30 second delay breaking spawners and chests with a message asking them not to? 

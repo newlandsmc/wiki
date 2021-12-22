@@ -3,7 +3,8 @@
 ## Configuring
 - Configure rewards in Expeditions
 - Configure MythicMobs _- started by Sarah_
-    - Figure out mcMMO integration with MythicMobs
+    - Design mobs
+    - Code mobs
 - Commission art for Buycraft
 - Create mcMMO custom MOTD when CustomMOTD plugin is finished
 - Configure buycraft items to run customMOTD commands

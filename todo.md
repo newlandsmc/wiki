@@ -10,6 +10,8 @@
 - Configure buycraft items to run customMOTD commands
 - Integrate buycraft with Discord
 - Improve loot chests with datapack _- started by Sarah_
+- Define blocked words in ChatCore
+- Customize chat formats in ChatCore (for staff chat and what not)
 
 ## Coding - improvements:
 
@@ -69,17 +71,6 @@
 
 ## Outdated To-Do List:
 
-- Define blocked words in ChatCore
-- Customize chat formats in ChatCore (for staff chat and what not)
-- How to make money - ranks, nicknames, what else?
-    - 3 ranks - $10, $20, $30
-    - Player trackers - $5 for 5
-    - Pay to vote - $100 to get the daily reward forever
-- Need plugin for boss mobs
-- Need plugin for custom pvp
-- Need plugin for real sleep
-- Need plugin for vote rewards (ADD TO REJOIN REWARDS - RENAME TO "EXPEDITIONS"?)
-- Need plugin for player trackers (PTW item)
 - Figre out how to handle staff wanting to play
     - Staff enable/disable command ? 
 - Figure out claim limits and buffers
@@ -90,5 +81,3 @@
     - You can't restrict access to end portals
     - 30 second delay breaking spawners and chests with a message asking them not to? 
     - Regenerating chunks in end and nether?
-- Figure out how to prevent buff abusing (from pvp)
-    - Make buff damage only apply to players

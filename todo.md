@@ -62,7 +62,7 @@
 - Test Expeditions plugin for exploits
 - Test mcMMO leveling
 - Test mcMMO exploit fixes
-
+- Test buycraft subscription cancellation (ticket open with Buycraft)
 
 --------------------
 

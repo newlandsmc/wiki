@@ -19,6 +19,7 @@
     - Add "use /skip to skip" message during story messages (where/how will this be added?)
 - Fix Expeditions
     - Cannot add reward items to existing stacks of that item in inventory
+    - Duplicate rewards under certain conditions
 - Improve DisableAdvancement plugin _- started by Destro_
     - Add config for adding any Gamerule we want to set and the desired value
     - Rename to "GamruleManager"

@@ -5,7 +5,6 @@
 - Configure MythicMobs _- started by Sarah_
     - Design mobs
     - Code mobs
-- Commission art for Buycraft
 - Create mcMMO custom MOTD when CustomMOTD plugin is finished
 - Configure buycraft items to run customMOTD commands
 - Integrate buycraft with Discord

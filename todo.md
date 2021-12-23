@@ -10,8 +10,6 @@
 - Configure buycraft items to run customMOTD commands
 - Integrate buycraft with Discord
 - Improve loot chests with datapack _- started by Sarah_
-- Define blocked words in ChatCore
-- Customize chat formats in ChatCore (for staff chat and what not)
 
 ## Coding - improvements:
 

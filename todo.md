@@ -55,6 +55,7 @@
     - GUI - always show all warps and have an icon for ones not yet discovered
 - Write plugin to discourage breaking spawners & loot chests
     - Slow down the action and print a message informing the player of why they should do that?
+- Design and write custom placeholder plugin
  
 ## Testing:
 

@@ -35,6 +35,7 @@
 
 
 ## Coding - new:
+- Write/find Commandspy plugin
 - Write CustomPVP plugin
 - Write plugin for EnderDragon modifications
     - EnderDragon respawns on a random island

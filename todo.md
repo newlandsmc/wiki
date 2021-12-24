@@ -27,7 +27,7 @@
     - Improve counter system (multiple potential counter-based MOTDs somehow?)
 
 ## Coding - new:
-- Write/find Commandspy plugin
+- Write/find Commandspy plugin _- not needed for launch_
 - Write CustomPVP plugin
 - Write plugin for EnderDragon modifications
     - EnderDragon respawns on a random island

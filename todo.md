@@ -39,7 +39,7 @@
     - Custom item points to nearest player once activate (right click)
     - Custom time that the item lasts before it's used (60 seconds then it's removed from the player's inventory - maybe use item durability for this?)
     - Command to give players this item
-- Find/write a plugin for warps
+- Find/write a plugin for warps _- low priority_
     - Allows players to warp to location AFTER they have "discovered" it
     - Some sort of cost so they can't spam it?
     - GUI - always show all warps and have an icon for ones not yet discovered

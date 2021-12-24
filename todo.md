@@ -12,13 +12,8 @@
 
 ## Coding - improvements:
 
-- Fix JoinHandler plugin _- started by Cookie_
-    - player name variable doesn't work in leave messages
-    - Schematic doesn't spawn on player join when using JakesRTP
 - Improve story messages
-    - Add blank lines between story messages
     - Mute chat during story messages
-    - Add "use /skip to skip" message during story messages (where/how will this be added?)
 - Fix Expeditions
     - Cannot add reward items to existing stacks of that item in inventory
     - Duplicate rewards under certain conditions
@@ -30,9 +25,6 @@
     - Update to 1.18.1
     - Fix commands
     - Improve counter system (multiple potential counter-based MOTDs somehow?)
-- Remove trailing colon from mentions in ChatCore
-- Rename "SemiCore" to "CookieCore"
-
 
 ## Coding - new:
 - Write/find Regex swear filter plugin
@@ -44,7 +36,7 @@
     - Configurable range to look for a new spawn location
     - Configurable cooldown between respawns
     - Compasses in the end point to the dragon
-- Write player-tracker plugin
+- Write player-tracker plugin _- not needed for launch_
     - Custom in-game item can be given to players (glowing Compass with custom name/description)
     - Custom item points to nearest player once activate (right click)
     - Custom time that the item lasts before it's used (60 seconds then it's removed from the player's inventory - maybe use item durability for this?)
@@ -53,9 +45,9 @@
     - Allows players to warp to location AFTER they have "discovered" it
     - Some sort of cost so they can't spam it?
     - GUI - always show all warps and have an icon for ones not yet discovered
-- Write plugin to discourage breaking spawners & loot chests
+- Write plugin to discourage breaking spawners & loot chests _- started by Destro_
     - Slow down the action and print a message informing the player of why they should do that?
-- Design and write custom placeholder plugin
+- Design and write custom placeholder plugin _- not needed for launch_
  
 ## Testing:
 

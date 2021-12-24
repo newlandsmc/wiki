@@ -5,10 +5,9 @@
 - Configure MythicMobs _- started by Sarah_
     - Design mobs
     - Code mobs
-- Create mcMMO custom MOTD when CustomMOTD plugin is finished
+- Learn and tweak Aurelium as needed
+- Create Aurelium custom MOTD when CustomMOTD plugin is finished
 - Configure buycraft items to run customMOTD commands
-- Integrate buycraft with Discord
-- Improve loot chests with datapack _- started by Sarah_
 
 ## Coding - improvements:
 
@@ -50,8 +49,6 @@
 ## Testing:
 
 - Test Expeditions plugin for exploits
-- Test mcMMO leveling
-- Test mcMMO exploit fixes
 - Test buycraft subscription cancellation (ticket open with Buycraft)
 
 --------------------

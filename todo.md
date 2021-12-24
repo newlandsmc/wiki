@@ -35,6 +35,8 @@
 
 
 ## Coding - new:
+- Write/find Regex swear filter plugin
+- Write/find CAPS filter plugin
 - Write/find Commandspy plugin
 - Write CustomPVP plugin
 - Write plugin for EnderDragon modifications

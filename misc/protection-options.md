@@ -33,6 +33,8 @@ These are some options we have for the big-picture idea when we factor PvP and D
 - Players can claim land to protect everything within it AND griefing is prohibited. Staff will need to rollback and griefs.
 - Consequence: Old abandoned buildings will be around forever (this is a good thing for historical items and monuments, but bad for your average hut).
 - Consequence: This potentially doesn't align with the more competitive RPG idea of the server, do we want to revisit the goal of the server?
+- Consequence: Some manual labor from staff rolling back griefs (staff burden)
+- Consequence: Some players may choose not to protect their land out of laziness and rely on staff.
 - Consequence: Duplication of items on rollback potentially
 
 **Complete Self-Service Protection**

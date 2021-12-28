@@ -47,11 +47,9 @@ Consequence: Players complain and fight when they get griefed and are mad they d
 
 **Item Protection**
 
-Players can use LWC to protect their chests. This is completely automated on chest-place. Griefing is allowed and builds aren't protected.
+Players can use LWC to protect their chests. This is completely automated on chest-place. Griefing is allowed and builds aren't protected. Can use https://github.com/pop4959/LWCX/wiki/Protection-cleanup to remove old protections.
 
 Consequence: Players builds can be destroyed
-
-Consequence: LWC protections never expire. Lots of chests will be around forever.
 
 **Manual Protection**
 

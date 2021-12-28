@@ -52,6 +52,7 @@ Plugin                      |   Type   |  Main Page  | Dev Build | Maintainer
 --------------------------- | -------- | ----------- | --------- | -------------
 GriefPrevention             | Public   | https://www.spigotmc.org/resources/griefprevention.1884/ | https://ci.appveyor.com/project/RoboMWM39862/griefprevention/history | NA
 mcMMO                       | Public   | https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/updates | | NA
+Pl3xMap                     | Public   | https://github.com/NeumimTo/Pl3xMap | | NA
 
 ## Domains:
 semivanilla.com:

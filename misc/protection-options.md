@@ -30,35 +30,22 @@ We need to decide how we will let players protect their builds/items. We must co
 These are some options we have for the big-picture idea when we factor PvP and Dynmap into the mix:
 
 **Complete Global Protection**
-
-Players can claim land to protect everything within it AND griefing is prohibited. Staff will need to rollback and griefs.
-
-Consequence: Old abandoned buildings will be around forever (this is a good thing for historical items and monuments, but bad for your average hut).
-
-Consequence: This potentially doesn't align with the more competitive RPG idea of the server, do we want to revisit the goal of the server?
-
-Consequence: Duplication of items on rollback potentially
+- Players can claim land to protect everything within it AND griefing is prohibited. Staff will need to rollback and griefs.
+- Consequence: Old abandoned buildings will be around forever (this is a good thing for historical items and monuments, but bad for your average hut).
+- Consequence: This potentially doesn't align with the more competitive RPG idea of the server, do we want to revisit the goal of the server?
+- Consequence: Duplication of items on rollback potentially
 
 **Complete Self-Service Protection**
-
-Players can claim land to protect everything within it. Griefing is allowed.
-
-Consequence: Players complain and fight when they get griefed and are mad they didn't protect their stuff. (Staff burden)
+- Players can claim land to protect everything within it. Griefing is allowed.
+- Consequence: Players complain and fight when they get griefed and are mad they didn't protect their stuff. (Staff burden)
 
 **Item Protection**
-
-Players can use LWC to protect their chests. This is completely automated on chest-place. Griefing is allowed and builds aren't protected. Can use https://github.com/pop4959/LWCX/wiki/Protection-cleanup to remove old protections.
-
-Consequence: Players builds can be destroyed
+- Players can use LWC to protect their chests. This is completely automated on chest-place. Griefing is allowed and builds aren't protected. Can use https://github.com/pop4959/LWCX/wiki/Protection-cleanup to remove old protections.
+- Consequence: Players builds can be destroyed
 
 **Manual Protection**
-
-Players can use LWC (or nothing) to protect their builds. Griefing is prohibited. Staff will need to rollback and griefs.
-
-Consequence: Old abandoned buildings will be around forever (this is a good thing for historical items and monuments, but bad for your average hut).
-
-Consequence: This potentially doesn't align with the more competitive RPG idea of the server, do we want to revisit the goal of the server?
-
-Consequence: Lots of manual labor from staff rolling back griefs (staff burden)
-
-Consequence: Duplication of items on rollback potentially
+- Players can use LWC (or nothing) to protect their builds. Griefing is prohibited. Staff will need to rollback and griefs.
+- Consequence: Old abandoned buildings will be around forever (this is a good thing for historical items and monuments, but bad for your average hut).
+- Consequence: This potentially doesn't align with the more competitive RPG idea of the server, do we want to revisit the goal of the server?
+- Consequence: Lots of manual labor from staff rolling back griefs (staff burden)
+- Consequence: Duplication of items on rollback potentially

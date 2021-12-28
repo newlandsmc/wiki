@@ -2,7 +2,7 @@
 
 We need to decide how we will let players protect their builds/items. We must consider Dynmap and PvP settings when discussing these (other things to consider add here).
 
-## There are 3 Potential Choices:
+## Potential Plugins:
 
 - **GriefPrevention:**
     - Players earn virtual "claim blocks" (number of 1x1 columns they can claim) and use a golden shovel to create rectangular claims that automatically extend up to build limit and down to the lowest part of their build.
@@ -17,8 +17,16 @@ We need to decide how we will let players protect their builds/items. We must co
     - Pros: Should work similar to GriefPrevention but without needing to create rectangular claims which some players struggle with, and without needing a golden shovel to use it.
     - Cons: Requires ugly blocks to be placed/hidden somewhere within your build. Also permanent? Hard to visualize the radius for larger blocks.
 
-## Complete Solutions:
+## Factors to Consider:
 
-These are some options we have when we factor PvP and Dynmap into the mix:
+- If we have Dynmap then players can see where builds and other players are and target them for PvP or Griefing.
+- If Raiding/Griefing unclaimed land is allowed, then players may not like only have LWC to protect their items...
+    - ~~Unless that's part of the challenge, you need to hide your base?~~
+- We could outlaw griefing, use CoreProtect to rollback any griefs, and still only use LWC for basic protection
+    - But this requires a lot more involvement by staff and may be the least clean solution in the end for this reason
 
-**To Do.**
+## Potential "Solutions":
+
+These are some options we have for the big-picture idea when we factor PvP and Dynmap into the mix:
+
+**TO DO**

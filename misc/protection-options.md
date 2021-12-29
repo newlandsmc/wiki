@@ -11,7 +11,7 @@ We need to decide how we will let players protect their builds/items. We must co
 - **LWCX:** 
     - Any chest players place down is automatically protected. They can /trust people to let those players access anything they have protected.
     - Pros: Easy to use, requires no action by players to have their things protected - entirely automated. Also, protects only essential blocks and leaves most of the world open for destruction.
-    - Cons: Only protects inventory blocks. No build protection. No expiration system?
+    - Cons: Only protects inventory blocks. No build protection. Possible negative: expiration system
 - **ProtectionStones:**
     - Players can "buy" protection stones, specific blocks they can place to protect a radius around that block.
     - Pros: Should work similar to GriefPrevention but without needing to create rectangular claims which some players struggle with, and without needing a golden shovel to use it.
@@ -44,6 +44,7 @@ These are some options we have for the big-picture idea when we factor PvP and D
 **Item Protection**
 - Players can use LWC to protect their chests. This is completely automated on chest-place. Griefing is allowed and builds aren't protected. Can use https://github.com/pop4959/LWCX/wiki/Protection-cleanup to remove old protections.
 - Consequence: Players builds can be destroyed
+- Consequence: Expiration system could unprotect chests from active players
 
 **Manual Protection**
 - Players can use LWC (or nothing) to protect their builds. Griefing is prohibited. Staff will need to rollback and griefs.

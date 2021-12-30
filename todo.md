@@ -5,7 +5,6 @@
 - Configure MythicMobs _- started by Sarah_
     - Design mobs
     - Code mobs
-- Learn and tweak Aurelium as needed
 - Create Aurelium custom MOTD when CustomMOTD plugin is finished
 - Configure buycraft items to run customMOTD commands
 
@@ -32,6 +31,7 @@
 
 - Test Expeditions plugin for exploits
 - Test buycraft subscription cancellation (ticket open with Buycraft)
+- Test Aurelium Skills
 
 --------------------
 

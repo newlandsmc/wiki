@@ -11,9 +11,9 @@
 
 ## Coding - improvements:
 
-- Improve story messages
+- Improve story messages _-started by Cookie_
     - Mute chat during story messages
-- Fix Expeditions
+- Fix Expeditions _-started by Cookie_
     - Cannot add reward items to existing stacks of that item in inventory
     - Duplicate rewards under certain conditions
     - Implement "instant expeditions" (voting and premium reward)
@@ -27,7 +27,6 @@
 
 ## Coding - new:
 - Write/find Commandspy plugin _- not needed for launch_
-- Write CustomPVP plugin
 - Write plugin for EnderDragon modifications
     - EnderDragon respawns on a random island
     - Configurable range to look for a new spawn location
@@ -44,6 +43,7 @@
     - GUI - always show all warps and have an icon for ones not yet discovered
 - Write plugin to discourage breaking spawners & loot chests _- started by Destro_
     - Slow down the action and print a message informing the player of why they should do that?
+- Write player marker plugin for map _-started by Destro_
 - Design and write custom placeholder plugin _- not needed for launch_
  
 ## Testing:

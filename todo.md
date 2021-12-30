@@ -5,8 +5,6 @@
 - Configure MythicMobs _- started by Sarah_
     - Design mobs
     - Code mobs
-- Create Aurelium custom MOTDs
-- Configure buycraft items to run customMOTD commands
 
 ## Coding - improvements:
 

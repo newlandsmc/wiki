@@ -16,9 +16,9 @@
     - Implement "instant expeditions" (voting and premium reward)
 
 ## Coding - new:
-- Write/find Commandspy plugin _- not needed for launch_
 - Write plugin for EnderDragon modifications
-- Write player-tracker plugin _- not needed for launch_
+- Write plugin for respawn handling
+    - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/respawn-handler.md
 - Find/write a plugin for warps _- low priority_
     - Allows players to warp to location AFTER they have "discovered" it
     - Some sort of cost so they can't spam it?
@@ -26,7 +26,9 @@
 - Write plugin to discourage breaking spawners & loot chests _- started by Destro_
 - Write player marker plugin for map _-started by Destro_
 - Design and write custom placeholder plugin _- not needed for launch_
- 
+- Write/find Commandspy plugin _- not needed for launch_
+- Write player-tracker plugin _- not needed for launch_
+
 ## Testing:
 
 - Test Expeditions plugin for exploits

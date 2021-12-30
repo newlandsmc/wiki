@@ -17,6 +17,7 @@
 
 ## Coding - new:
 - Write plugin for EnderDragon modifications
+    - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/ender-dragon.md
 - Write plugin for respawn handling
     - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/respawn-handler.md
 - Find/write a plugin for warps _- low priority_

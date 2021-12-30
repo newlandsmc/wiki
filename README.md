@@ -25,6 +25,7 @@ CoreProtect                 | Public   | https://www.spigotmc.org/resources/core
 CustomMOTD                  | Custom   | https://github.com/SemiVanilla-MC/CustomMOTD | | Destro174
 EssentialsX                 | Public   | https://essentialsx.net/downloads.html | | NA
 EssentialsXChat             | Public   | https://essentialsx.net/downloads.html | | NA
+Exhaustion                  | Premium  | https://www.spigotmc.org/resources/exhaustion.73031/ | | NA
 Expeditions                 | Custom   | https://github.com/SemiVanilla-MC/Expeditions | | Cookie
 GameruleManager             | Custom   | https://github.com/SemiVanilla-MC/GameruleManager | | Destro174
 HolographicDisplays         | Public   | https://dev.bukkit.org/projects/holographic-displays | | NA

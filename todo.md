@@ -20,9 +20,7 @@
 - Write plugin for respawn handling
     - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/respawn-handler.md
 - Find/write a plugin for warps _- low priority_
-    - Allows players to warp to location AFTER they have "discovered" it
-    - Some sort of cost so they can't spam it?
-    - GUI - always show all warps and have an icon for ones not yet discovered
+    - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/fast-travel.md
 - Write plugin to discourage breaking spawners & loot chests _- started by Destro_
 - Write player marker plugin for map _-started by Destro_
 - Design and write custom placeholder plugin _- not needed for launch_

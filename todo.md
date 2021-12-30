@@ -31,7 +31,7 @@
 
 - Test Expeditions plugin for exploits
 - Test buycraft subscription cancellation (ticket open with Buycraft)
-- Test Aurelium Skills
+- Test Aurelium Skills leveling difficulty & ease of use
 
 --------------------
 

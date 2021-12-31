@@ -1,39 +1,41 @@
-diamonds
-emeralds
-lapis
-redstone
-amethyst shards
-raw iron
-raw copper
-raw gold
+# Expedition Rewards
 
-feather
-gunpowder
-rabbits foot
-leather
-slimeball
-bone
-scute
-nautilus shells
-phantom membrane
-honeycomb
+## Surface Expedition
+- diamonds
+- emeralds
+- lapis
+- redstone
+- amethyst shards
+- raw iron
+- raw copper
+- raw gold
 
-wheat
-apple
-bread
-raw porkchop
-raw beef
-raw mutton
+- feather
+- gunpowder
+- rabbits foot
+- leather
+- slimeball
+- bone
+- scute
+- nautilus shells
+- phantom membrane
+- honeycomb
 
+- wheat
+- apple
+- bread
+- raw porkchop
+- raw beef
+- raw mutton
 
-
-ancient debris
-glowstone dust
-quartz
-blaze rods
-gold nugget
-nether wart
-blaze powder
-magma cream
-ghast tear
-netherite scrap
+## Nether Expedition
+- ancient debris
+- glowstone dust
+- quartz
+- blaze rods
+- gold nugget
+- nether wart
+- blaze powder
+- magma cream
+- ghast tear
+- netherite scrap

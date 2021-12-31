@@ -1,7 +1,6 @@
 # To Do:
 
 ## Configuring
-- Configure rewards in Expeditions
 - Configure MythicMobs _- started by Sarah_
     - Design mobs
     - Code mobs
@@ -12,19 +11,21 @@
     - Mute chat during story messages
 - Fix Expeditions _-started by Cookie_
     - Implement "instant expeditions" (voting and premium reward)
+    - Implement configurable chance to get same item again
+    - Implement configurable cost of getting same item
+    - Implement command to give player a expeditions
+- Fix CustomMOTD _-started by Destro_
+    - Replace default command with listing default in list and apply commands
 
 ## Coding - new:
 - Write plugin for EnderDragon modifications
     - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/ender-dragon.md
 - Write plugin for respawn handling
     - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/respawn-handler.md
-- Find/write a plugin for warps _- low priority_
-    - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/fast-travel.md
 - Write plugin to discourage breaking spawners & loot chests _- started by Destro_
 - Write player marker plugin for map _-started by Destro_
-- Design and write custom placeholder plugin _- not needed for launch_
-- Write/find Commandspy plugin _- not needed for launch_
-- Write player-tracker plugin _- not needed for launch_
+- Find/write a plugin for warps _- low priority_
+    - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/fast-travel.md
 
 ## Testing:
 

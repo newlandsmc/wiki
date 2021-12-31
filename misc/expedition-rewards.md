@@ -9,7 +9,6 @@
 - raw iron
 - raw copper
 - raw gold
-
 - feather
 - gunpowder
 - rabbits foot
@@ -20,7 +19,6 @@
 - nautilus shells
 - phantom membrane
 - honeycomb
-
 - wheat
 - apple
 - bread

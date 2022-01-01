@@ -33,10 +33,8 @@
 - Test buycraft subscription cancellation (ticket open with Buycraft)
 - Test Aurelium Skills leveling difficulty & ease of use
 
---------------------
+## Other:
 
-
-## Outdated To-Do List:
-
+- Get banner from RyanDawn
 - Figre out how to handle staff wanting to play
     - Staff enable/disable command ? 

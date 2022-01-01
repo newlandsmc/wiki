@@ -23,7 +23,6 @@
 - Write plugin for respawn handling
     - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/respawn-handler.md
 - Write plugin to discourage breaking spawners & loot chests _- started by Destro_
-- Write player marker plugin for map _-started by Destro_
 - Find/write a plugin for warps _- low priority_
     - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/fast-travel.md
 

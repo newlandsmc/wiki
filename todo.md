@@ -16,6 +16,8 @@
     - Implement command to give player a expeditions
 - Fix CustomMOTD _-started by Destro_
     - Replace default command with listing default in list and apply commands
+- Fix JoinHandler
+    - Campfires are still spawning at 0,0
 
 ## Coding - new:
 - Write plugin for EnderDragon modifications

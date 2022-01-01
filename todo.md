@@ -38,4 +38,7 @@
 
 - Get banner from RyanDawn
 - Figre out how to handle staff wanting to play
-    - Staff enable/disable command ? 
+    - Staff enable/disable command ?
+- Figure out how to have a test server
+    - Decoupled from MiaraDB
+    - Different port

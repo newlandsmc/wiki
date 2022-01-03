@@ -32,6 +32,7 @@ HolographicDisplays         | Public   | https://dev.bukkit.org/projects/hologra
 JakesRTP                    | Public   | https://www.spigotmc.org/resources/jakes-rtp.80201/ | | NA
 JoinHandler                 | Custom   | https://github.com/SemiVanilla-MC/JoinHandler | | Cookie
 Litebans                    | Premium  | https://www.spigotmc.org/resources/litebans.3715/ | | NA
+LiveAtlas                   | Public  | https://www.spigotmc.org/resources/liveatlas-alternative-map-ui-dynmap-pl3xmap-squaremap.86939/ | | NA
 LuckPerms                   | Public   | https://luckperms.net/download | | NA
 LWCTrust                    | Public   | https://www.spigotmc.org/resources/lwc-trust.75580/ | | NA
 LWCX                        | Public   | https://www.spigotmc.org/resources/lwc-extended.69551/ | | NA

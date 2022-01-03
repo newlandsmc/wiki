@@ -1,5 +1,7 @@
 # Story Messages
 
+Messages play in groups of 3 with a 3 second delay between each group. Chat is muted during this time. A blank line is printed between each group.
+
 ## First Join
 
 You awake in a strange place...

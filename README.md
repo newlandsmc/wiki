@@ -23,6 +23,7 @@ ChunkyBorder                | Public   | https://www.spigotmc.org/resources/chun
 CookieCore                  | Custom   | https://github.com/SemiVanilla-MC/CookieCore | | Cookie
 CoreProtect                 | Public   | https://www.spigotmc.org/resources/coreprotect.8631/ | | NA
 CustomMOTD                  | Custom   | https://github.com/SemiVanilla-MC/CustomMOTD | | Destro174
+EnderDragonTweaks           | Custom   | https://github.com/SemiVanilla-MC/EnderDragonTweaks | | Destro174
 EssentialsX                 | Public   | https://essentialsx.net/downloads.html | | NA
 EssentialsXChat             | Public   | https://essentialsx.net/downloads.html | | NA
 Exhaustion                  | Premium  | https://www.spigotmc.org/resources/exhaustion.73031/ | | NA

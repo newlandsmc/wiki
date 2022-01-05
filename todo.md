@@ -14,17 +14,12 @@
     - Implement configurable chance to get same item again
     - Implement configurable cost of getting same item
     - Implement command to give player a expeditions
-- Fix CustomMOTD _-started by Destro_
-    - Replace default command with listing default in list and apply commands
 - Fix JoinHandler
-    - Campfires are still spawning at 0,0
+    - Add command to trigger join-handler instead of join listener
 
 ## Coding - new:
-- Write plugin for EnderDragon modifications
-    - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/ender-dragon.md
 - Write plugin for respawn handling
     - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/respawn-handler.md
-- Write plugin to discourage breaking spawners & loot chests _- started by Destro_
 - Find/write a plugin for warps _- low priority_
     - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/fast-travel.md
 

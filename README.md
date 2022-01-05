@@ -32,7 +32,7 @@ HolographicDisplays         | Public   | https://dev.bukkit.org/projects/hologra
 JakesRTP                    | Public   | https://www.spigotmc.org/resources/jakes-rtp.80201/ | | NA
 JoinHandler                 | Custom   | https://github.com/SemiVanilla-MC/JoinHandler | | Cookie
 Litebans                    | Premium  | https://www.spigotmc.org/resources/litebans.3715/ | | NA
-LiveAtlas                   | Public  | https://www.spigotmc.org/resources/liveatlas-alternative-map-ui-dynmap-pl3xmap-squaremap.86939/ | | NA
+LiveAtlas                   | Public   | https://www.spigotmc.org/resources/liveatlas-alternative-map-ui-dynmap-pl3xmap-squaremap.86939/ | | NA
 LuckPerms                   | Public   | https://luckperms.net/download | | NA
 LWCTrust                    | Public   | https://www.spigotmc.org/resources/lwc-trust.75580/ | | NA
 LWCX                        | Public   | https://www.spigotmc.org/resources/lwc-extended.69551/ | | NA
@@ -44,8 +44,10 @@ ProtocolLib                 | Public   | https://www.spigotmc.org/resources/prot
 RegexFilter                 | Public   | https://www.spigotmc.org/resources/regexfilter.96416/ | | NA
 ShulkerPacks                | Public   | https://www.spigotmc.org/resources/shulker-backpacks-1-13-1-17.67466/ | | NA
 SquareMap                   | Public   | https://github.com/jpenilla/squaremap | | NA
+Staff Chat                  | Public   | https://www.spigotmc.org/resources/1-7-1-18-staff-chat.92585/ | | NA
 TabList                     | Public   | https://www.spigotmc.org/resources/animated-tab-tablist.46229/ | | NA
 Vault                       | Public   | https://www.spigotmc.org/resources/vault.34315/ | | NA
+Vulcan                      | Premium  | https://www.spigotmc.org/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-18-1.83626/ | NA
 WorldEdit                   | Public   | | https://builds.enginehub.org/job/worldedit?branch=master | NA
 
 **DISABLED:**

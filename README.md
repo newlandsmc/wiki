@@ -60,24 +60,3 @@ Plugin                      |   Type   |  Main Page  | Dev Build | Maintainer
 GriefPrevention             | Public   | https://www.spigotmc.org/resources/griefprevention.1884/ | https://ci.appveyor.com/project/RoboMWM39862/griefprevention/history | NA
 mcMMO                       | Public   | https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/updates | | NA
 Pl3xMap                     | Public   | https://github.com/NeumimTo/Pl3xMap | | NA
-
-## Domains:
-semivanilla.com:
-Record |  Type  | Value
------- | :----: | ------
-@      |   A    | 64.83.167.34
-www    | CNAME  | @
-mc     | CNAME  | @
-play   | CNAME  | @
-store  | CNAME  | 41cb4817.webstore.tebex.io.
-
-semi-vanilla.com:
-Record |  Type  | Value
------- | :----: | ------
-\*      |   CNAME    | semivanilla.com
-
-semivanilla.org:
-Record |  Type  | Value
------- | :----: | ------
-\*      |   CNAME    | semivanilla.com
-

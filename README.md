@@ -64,4 +64,6 @@ Pl3xMap                     | Public   | https://github.com/NeumimTo/Pl3xMap | |
 
 ## Hosts:
 
-https://github.com/SemiVanilla-MC/host
+Hosts are documented here:
+
+[https://github.com/SemiVanilla-MC/host](https://github.com/SemiVanilla-MC/host)

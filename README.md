@@ -32,6 +32,7 @@ GameruleManager             | Custom   | https://github.com/SemiVanilla-MC/Gamer
 HolographicDisplays         | Public   | https://dev.bukkit.org/projects/holographic-displays | | NA
 JakesRTP                    | Public   | https://www.spigotmc.org/resources/jakes-rtp.80201/ | | NA
 JoinHandler                 | Custom   | https://github.com/SemiVanilla-MC/JoinHandler | | Cookie
+LibsDisguises               | Premium  | https://www.spigotmc.org/resources/libs-disguises.32453/ | | NA
 Litebans                    | Premium  | https://www.spigotmc.org/resources/litebans.3715/ | | NA
 LiveAtlas                   | Public   | https://www.spigotmc.org/resources/liveatlas-alternative-map-ui-dynmap-pl3xmap-squaremap.86939/ | | NA
 LuckPerms                   | Public   | https://luckperms.net/download | | NA
@@ -45,6 +46,7 @@ ProtocolLib                 | Public   | https://www.spigotmc.org/resources/prot
 RegexFilter                 | Public   | https://www.spigotmc.org/resources/regexfilter.96416/ | | NA
 ShulkerPacks                | Public   | https://www.spigotmc.org/resources/shulker-backpacks-1-13-1-17.67466/ | | NA
 SquareMap                   | Public   | https://github.com/jpenilla/squaremap | | NA
+SquareMapPlayers            | Custom   | https://github.com/SemiVanilla-MC/SquaremapPlayers | | Destro174
 Staff Chat                  | Public   | https://www.spigotmc.org/resources/1-7-1-18-staff-chat.92585/ | | NA
 TabList                     | Public   | https://www.spigotmc.org/resources/animated-tab-tablist.46229/ | | NA
 Vault                       | Public   | https://www.spigotmc.org/resources/vault.34315/ | | NA

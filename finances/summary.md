@@ -19,20 +19,23 @@ Plugins purchased:
 - Vulcan AntiCheat: $20
 
 Developers time paid:
-- Week 1 Cookie: $120
-- Week 2 Cookie: $150
-- Week 3 Cookie: $60
-- Week 3 Destro: $59.28
-- Week 4 Cookie: $90
-- Week 4 Destro: $44.44
+_Note: $15/h, first payments were for more than just 1 week)_
+- Week 49 Cookie: $120
+- Week 50 Cookie: $150
+- Week 51 Cookie: $60
+- Week 51 Destro: $59.28
+- Week 52 Cookie: $90
+- Week 52 Destro: $44.44
 
 Logo:
+_Note: Logo purchases are split into half payments if looking at transaction history)_
 - Icecream version: $104.81
 - Fire version:
     - Initial cost: $161.41
     - Tip: $34.32
 
-Banner: 
+Banner:
+_Note: Banner purchases are split into half payments if looking at transaction history)_
 - Original banner:
     - Initial cost: $81.60
     - Raw file charge: $15 + frgn trans fee
@@ -40,11 +43,12 @@ Banner:
 Hardware (hosting one-time costs):
 - Hetzner main server: $137.68
 - Tebex webstore (3 months): $46.68
-- Tebex  Noon Premium Template: $34.65
+- Tebex Noon Premium Template: $34.65
 
 Other:
 - SpigotMC Donation: $10.20
 - MythicMobs Help: $29.55
+_Note: Buycraft icons was split into several small purchases back to back for separate icon packs_
 - Buycraft icons: $21.89
 
 -------------------------------

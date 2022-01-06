@@ -26,14 +26,9 @@
 ## Testing:
 
 - Test Expeditions plugin for exploits
-- Test buycraft subscription cancellation (ticket open with Buycraft)
 - Test Aurelium Skills leveling difficulty & ease of use
 
 ## Other:
 
-- Get banner from RyanDawn
 - Figre out how to handle staff wanting to play
     - Staff enable/disable command ?
-- Figure out how to have a test server
-    - Decoupled from MiaraDB
-    - Different port

@@ -48,6 +48,7 @@ Just storing this here temporarily until I get around to keep better documentati
 **Other:**
 > Note: Buycraft icons was split into several small purchases back to back for separate icon packs
 - SpigotMC Donation: $10.20
+- Tim Donation (JakesRTP): $15
 - MythicMobs Help: $29.55
 - Buycraft icons: $21.89
 

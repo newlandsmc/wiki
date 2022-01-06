@@ -19,6 +19,7 @@ Plugins purchased:
 - Vulcan AntiCheat: $20
 
 Developers time paid:
+
 _Note: $15/h, first payments were for more than just 1 week)_
 - Week 49 Cookie: $120
 - Week 50 Cookie: $150
@@ -28,6 +29,7 @@ _Note: $15/h, first payments were for more than just 1 week)_
 - Week 52 Destro: $44.44
 
 Logo:
+
 _Note: Logo purchases are split into half payments if looking at transaction history)_
 - Icecream version: $104.81
 - Fire version:
@@ -35,6 +37,7 @@ _Note: Logo purchases are split into half payments if looking at transaction his
     - Tip: $34.32
 
 Banner:
+
 _Note: Banner purchases are split into half payments if looking at transaction history)_
 - Original banner:
     - Initial cost: $81.60

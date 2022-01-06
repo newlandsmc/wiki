@@ -4,7 +4,7 @@ Just storing this here temporarily until I get around to keep better documentati
 
 ## Up front costs:
 
-Plugins purchased:
+**Plugins purchased:**
 - Litebans: $8.50
 - PremiumVanish: $11.61
 - MMOCore: $16.26
@@ -18,9 +18,8 @@ Plugins purchased:
     - Partial refund: expected to be -$16.88
 - Vulcan AntiCheat: $20
 
-Developers time paid:
-
-_Note: $15/h, first payments were for more than just 1 week)_
+**Developers time paid:**
+> Note: $15/h, first payments were for more than just 1 week)
 - Week 49 Cookie: $120
 - Week 50 Cookie: $150
 - Week 51 Cookie: $60
@@ -28,56 +27,51 @@ _Note: $15/h, first payments were for more than just 1 week)_
 - Week 52 Cookie: $90
 - Week 52 Destro: $44.44
 
-Logo:
-
-_Note: Logo purchases are split into half payments if looking at transaction history)_
+**Logo:**
+> Note: Logo purchases are split into half payments if looking at transaction history)
 - Icecream version: $104.81
 - Fire version:
     - Initial cost: $161.41
     - Tip: $34.32
 
-Banner:
-
-_Note: Banner purchases are split into half payments if looking at transaction history)_
+**Banner:**
+> Note: Banner purchases are split into half payments if looking at transaction history)
 - Original banner:
     - Initial cost: $81.60
     - Raw file charge: $15 + frgn trans fee
 
-Hardware (hosting one-time costs):
+**Hardware (hosting one-time costs):**
 - Hetzner main server: $137.68
 - Tebex webstore (3 months): $46.68
 - Tebex Noon Premium Template: $34.65
 
-Other:
-
-_Note: Buycraft icons was split into several small purchases back to back for separate icon packs_
+**Other:**
+> Note: Buycraft icons was split into several small purchases back to back for separate icon packs
 - SpigotMC Donation: $10.20
 - MythicMobs Help: $29.55
 - Buycraft icons: $21.89
 
--------------------------------
-Up front total: $1,344.76
--------------------------------
+Up front total | $1,344.76
+-------------- | ----------
 
 ## Monthly costs:
 
-Hosting:
+**Hosting:**
 - Hetzner main server: Approx. $62
 - Hetzner web server: Approx.  $8
 - Hetzner test server: Approx. $10
 
-Domains:
+**Domains:**
 - semivanilla.com: $1 ($12/yr) + tax
 - semivanilla.org: $1 ($12/yr) + tax
 - semi-vanilla.com: $1 ($12/yr) + tax
 
-Google Workspace: 
+**Google Workspace:**
 - User 1: $6 + tax
 - User 2: $6 + tax
 
-Tebex Webstore:
+**Tebex Webstore:**
 - Approx $15.56 (Approx. $46.68/3mo)
 
--------------------------------
-Monthly total: $112.56 / m 
--------------------------------
+Monthly total | $112.56 / m
+------------- | ------------

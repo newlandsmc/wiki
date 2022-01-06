@@ -16,10 +16,14 @@
     - Implement command to give player a expeditions
 - Fix JoinHandler
     - Add command to trigger join-handler instead of join listener
+- Add to EnderDragonTweaks _- started by Destro_
+    - Add item drops on dragon death
 
 ## Coding - new:
 - Write plugin for respawn handling
     - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/respawn-handler.md
+- Fork JakesRTP _-started by Destro_
+    - Add ability to rtp on death in all worlds
 - Find/write a plugin for warps _- low priority_
     - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/fast-travel.md
 

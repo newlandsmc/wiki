@@ -1,6 +1,6 @@
 # README for Plugin Repositories
 
-Please add a README.md to every plugin with this format, or your own:
+Please add a README.md to every plugin with this format, or your own format:
 
 \# Plugin Name
 

@@ -49,9 +49,10 @@ Hardware (hosting one-time costs):
 - Tebex Noon Premium Template: $34.65
 
 Other:
+
+_Note: Buycraft icons was split into several small purchases back to back for separate icon packs_
 - SpigotMC Donation: $10.20
 - MythicMobs Help: $29.55
-_Note: Buycraft icons was split into several small purchases back to back for separate icon packs_
 - Buycraft icons: $21.89
 
 -------------------------------

@@ -26,6 +26,7 @@ Just storing this here temporarily until I get around to keep better documentati
 - Week 51 Destro: $59.28
 - Week 52 Cookie: $90
 - Week 52 Destro: $44.44
+- Week 1 Destro: $75 + frgn trans fee
 
 **Logo:**
 > Note: Logo purchases are split into half payments if looking at transaction history)

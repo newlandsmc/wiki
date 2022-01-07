@@ -51,7 +51,8 @@ Staff Chat                  | Public   | https://www.spigotmc.org/resources/1-7-
 TabList                     | Public   | https://www.spigotmc.org/resources/animated-tab-tablist.46229/ | | NA
 Vault                       | Public   | https://www.spigotmc.org/resources/vault.34315/ | | NA
 Vulcan                      | Premium  | https://www.spigotmc.org/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-18-1.83626/ | | NA
-WorldEdit                   | Public   | | https://builds.enginehub.org/job/worldedit?branch=master | NA
+WorldEdit                   | Public   | https://dev.bukkit.org/projects/worldedit/files | https://builds.enginehub.org/job/worldedit?branch=master | NA
+WorldGuard                  | Public   | https://dev.bukkit.org/projects/worldguard/files | https://builds.enginehub.org/job/worldguard | NA
 
 **DISABLED:**
 

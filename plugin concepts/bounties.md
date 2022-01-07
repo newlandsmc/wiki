@@ -20,8 +20,6 @@ A bounty should be marked in 4 ways:
 
 Note: All configurable messages should support minimessage for formatting.
 
-------------
-
 The SquaremapPlayers plugin should be modified to make the color and fill-color of the marker a different color if a player is a bounty. It should somehow hook into the bounty plugin to get a list of players with bounties.
 
 ## Behavior

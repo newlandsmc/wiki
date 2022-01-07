@@ -2,7 +2,7 @@
 
 ## Overview
 
-Staff can set locations around the world as "waypoints" Players must visit a waypoint to unlock it, and then they can teleport there in the future.
+Staff can set locations around the world as "waypoints" Players must visit a waypoint to unlock it, and then they can teleport there in the future. Uses a GUI for player interface.
 
 ## Behavior
 

@@ -14,8 +14,8 @@ Waypoints title, description, and icon should be configurable - using minimessag
 
 ## Commands
 
-\/fasttravel create <name> - fasttravel.create - create new waypoint
-\/fasttravel - fasttravel.use - open GUI
+- \/fasttravel create <name> - fasttravel.create - create new waypoint
+- \/fasttravel - fasttravel.use - open GUI
 
 Please have configurable aliases for plugin, so we can optionally add "warp" and "waypoint" in the future. (For now I don't want any aliases).
 

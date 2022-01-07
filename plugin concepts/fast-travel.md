@@ -6,7 +6,7 @@ Staff can set locations around the world as "waypoints" Players must visit a way
 
 ## Behavior
 
-Waypoints title, description, and icon should be configurable - including using minimessage for formatting. Waypoints can be defined in a config. A command in-game can be included for creating a waypoint template, but I do NOT need or want a full in-game editor. The in-game command should let staff do "/fasttravel create <name>" and then a config entry will be created with a default icon and description, so we can go into the config later, find the new entry, and customize it to our liking.
+Waypoints title, description, and icon should be configurable - using minimessage for formatting. Waypoints can be defined in a config. A command in-game can be included for creating a waypoint template, but I do NOT need or want a full in-game editor. The in-game command should let staff do "/fasttravel create <name>" and then a config entry will be created with a default icon and description, so we can go into the config later, find the new entry, and customize it to our liking.
 
 Waypoints are "locked" by default and cannot be used by players. They must first visit the location to unlock the waypoint. (Being within a configurable radius of the waypoint's coordinates, including height/Y, should unlock waypoints). After a player has visited a waypoint, then they can teleport there in the future.
 

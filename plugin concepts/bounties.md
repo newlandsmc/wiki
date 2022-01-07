@@ -9,8 +9,8 @@ If someone kills a bounty they get a reward - thinking 10 levels of vanilla XP. 
 A bounty should be marked in 3 ways:
 
 1. When they do the killing a message is sent out:
-* <Victim> was slain...
-* <Killer> has a bounty on their head!
+* \<Victim\> was slain...
+* \<Killer\> has a bounty on their head!
   
 2. A suffix should be added to their name in TAB - "- bounty" in gold
   

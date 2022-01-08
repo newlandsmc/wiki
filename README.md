@@ -45,7 +45,7 @@ PremiumVanish               | Premium  | https://www.spigotmc.org/resources/prem
 ProtocolLib                 | Public   | https://www.spigotmc.org/resources/protocollib.1997/ | https://ci.dmulloy2.net/job/ProtocolLib/lastSuccessfulBuild/ | NA
 RegexFilter                 | Public   | https://www.spigotmc.org/resources/regexfilter.96416/ | | NA
 ShulkerPacks                | Public   | https://www.spigotmc.org/resources/shulker-backpacks-1-13-1-17.67466/ | | NA
-SquareMap                   | Public   | https://github.com/jpenilla/squaremap | | NA
+SquareMap                   | Public   | | https://github.com/jpenilla/squaremap | NA
 SquareMapPlayers            | Custom   | https://github.com/SemiVanilla-MC/SquaremapPlayers | | Destro174
 Staff Chat                  | Public   | https://www.spigotmc.org/resources/1-7-1-18-staff-chat.92585/ | | NA
 TabList                     | Public   | https://www.spigotmc.org/resources/animated-tab-tablist.46229/ | | NA

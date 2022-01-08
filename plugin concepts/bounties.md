@@ -28,7 +28,7 @@ TBD
 
 ## Commands
 
-TBD
+- \/bounty <add/remove> <name> - bounties.modify - add/remove the bounty from any player.
 
 ## Messages
 

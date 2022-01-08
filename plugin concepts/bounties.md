@@ -40,4 +40,6 @@ TBD
 
 ## Notes
 
-TBD
+This plugin requires integration with SquaremapPlayers:
+  
+https://github.com/SemiVanilla-MC/SquaremapPlayers

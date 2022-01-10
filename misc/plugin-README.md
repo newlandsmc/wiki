@@ -21,3 +21,7 @@ A list, or table, with commands and permissions
 Anything else a new server admin should know, such as key config items to pay attention to, etc.
 
 Also, please add comments to config for ease of use.
+
+## Generator
+
+ReadME generator suggested by Alen_Alex: https://github.com/kefranabg/readme-md-generator

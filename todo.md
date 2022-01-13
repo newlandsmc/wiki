@@ -15,7 +15,7 @@
     - Implement item drops on dragon death _- started by Destro_
 - ALL PLUGINS
     - Configurable help output (header, footer, line format)
-    - /<plugin> help command
+    - /\<plugin\> help command
     - README.md
     - Configurable no-permission message
     - Configurable command-error message

@@ -13,6 +13,12 @@
     - Implement vote rewards _- started by Cookie_
 - EnderDragonTweaks
     - Implement item drops on dragon death _- started by Destro_
+- ALL PLUGINS
+    - Configurable help output (header, footer, line format)
+    - /<plugin> help command
+    - README.md
+    - Configurable no-permission message
+    - Configurable command-error message
 
 ## Coding - new:
 
@@ -20,7 +26,7 @@
     - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/respawn-handler.md
 - Fork JakesRTP _- started by Destro_
     - Add ability to rtp on death in all worlds
-- Find/write a plugin for warps _- low priority_
+- Find/write a plugin for warps _- started by Alen_
     - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/fast-travel.md
 
 ## Testing:

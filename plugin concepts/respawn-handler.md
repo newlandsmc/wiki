@@ -2,15 +2,13 @@
 
 ## Overview
 
-Players spawn in a random location within a certain radius of their death when they die. A chest appears next to them with their items in it, as well as a paper named with the coordinates they died.
+After death, a doublechest appears next to players with their items in it, as well as a paper named with the coordinates they died.
 
 If the player had some gems or ores, they lose 33% of them.
 
-If a player died by lava or void, then they respawn at their last bed with no items.
-
 ## Behavior
 
-TBD
+Must be command-triggered. Will be called by JakesRTP.
 
 ## Commands
 
@@ -22,7 +20,7 @@ TBD
 
 ## Config
 
-TBD
+% of items lost and items to take should be configurable.
 
 ## Notes
 

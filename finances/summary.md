@@ -56,7 +56,7 @@ Just storing this here temporarily until I get around to keep better documentati
 - MythicMobs Help: $29.55
 - Buycraft icons: $21.89
 
-Up front total | ~ $1,748.76
+Up front total | ~ $1,749.76
 -------------- | ----------
 
 ## Monthly costs:

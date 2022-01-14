@@ -64,7 +64,7 @@ Up front total | $1,344.76
 **Hosting:**
 - Hetzner main server: Approx. $62
 - Hetzner web server: Approx.  $8
-- Hetzner test server: Approx. $10
+- Hetzner test server: Approx. $15
 
 **Domains:**
 - semivanilla.com: $1 ($12/yr) + tax

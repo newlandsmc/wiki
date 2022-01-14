@@ -56,7 +56,7 @@ Just storing this here temporarily until I get around to keep better documentati
 - MythicMobs Help: $29.55
 - Buycraft icons: $21.89
 
-Up front total | $1,344.76
+Up front total | ~ $1,748.76
 -------------- | ----------
 
 ## Monthly costs:
@@ -78,5 +78,5 @@ Up front total | $1,344.76
 **Tebex Webstore:**
 - Approx $15.56 (Approx. $46.68/3mo)
 
-Monthly total | $112.56 / m
+Monthly total | $119.56 / m
 ------------- | ------------

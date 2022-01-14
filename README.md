@@ -71,3 +71,9 @@ Pl3xMap                     | Public   | https://github.com/NeumimTo/Pl3xMap | |
 Hosts are documented here:
 
 [https://github.com/SemiVanilla-MC/host](https://github.com/SemiVanilla-MC/host)
+
+## Logo/Images:
+
+Logo and other images are stored here:
+
+[https://github.com/SemiVanilla-MC/logo](https://github.com/SemiVanilla-MC/logo)

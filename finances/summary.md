@@ -62,7 +62,7 @@ Up front total | $1,344.76
 ## Monthly costs:
 
 **Hosting:**
-- Hetzner main server: Approx. $81
+- Hetzner main server: Approx. $66
 - Hetzner web server: Approx.  $8
 - Hetzner test server: Approx. $15
 

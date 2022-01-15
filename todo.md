@@ -8,11 +8,13 @@
 ## Coding - improvements:
 
 - JoinHandler
-    - Unhide first-join broadcast for player joining _- started by Cookie_
+    - Fix first-join broadcast for player joining not visible by anyone
 - Expeditions
-    - Implement vote rewards _- started by Cookie_
+    - Improve GUI by making descriptions multiple lines
+    - Make inactive GUI icons do nothing when clicked
 - EnderDragonTweaks
     - Implement item drops on dragon death _- started by Destro_
+    - Fix EnderDragon repeatedly respawning
 - ALL PLUGINS
     - Configurable help output (header, footer, line format)
     - /\<plugin\> help command
@@ -22,7 +24,7 @@
 
 ## Coding - new:
 
-- Write plugin for respawn handling
+- Write plugin for respawn handling _- started by cookie_
     - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/respawn-handler.md
 - Fork JakesRTP _- started by Destro_
     - Add ability to rtp on death in all worlds

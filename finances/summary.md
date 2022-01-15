@@ -59,6 +59,10 @@ Just storing this here temporarily until I get around to keep better documentati
 Up front total | ~ $1,749.76
 -------------- | ----------
 
+## Month One
+
+- Hetzner main server: Approx. 67.34
+
 ## Monthly costs:
 
 **Hosting:**

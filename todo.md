@@ -7,6 +7,8 @@
 
 ## Coding - improvements:
 
+- JoinHandler
+    - Mute join/leave messages when player is new if they leave before finishing story
 - ALL PLUGINS
     - Configurable help output (header, footer, line format)
     - /\<plugin\> help command

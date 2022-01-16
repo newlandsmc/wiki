@@ -18,8 +18,6 @@
 
 - Write plugin for respawn handling _- started by cookie_
     - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/respawn-handler.md
-- Fork JakesRTP _- started by Destro_
-    - Add ability to rtp on death in all worlds
 - Find/write a plugin for warps _- started by Alen_
     - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/fast-travel.md
 

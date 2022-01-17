@@ -7,6 +7,9 @@
 
 ## Coding - improvements:
 
+- Bounties
+    - Fix variables being reversed
+    - Add configurable rewards for non-bounties
 - JoinHandler
     - Mute join/leave messages when player is new if they leave before finishing story
 - ALL PLUGINS

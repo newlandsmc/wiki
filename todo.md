@@ -10,6 +10,7 @@
 - Bounties
     - Fix variables being reversed
     - Add configurable rewards for non-bounties
+    - Figure out a way to avoid people abusing it for XP
 - JoinHandler
     - Mute join/leave messages when player is new if they leave before finishing story
 - ALL PLUGINS

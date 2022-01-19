@@ -66,9 +66,9 @@ Up front total | ~ $1,749.76
 ## Monthly costs:
 
 **Hosting:**
-- Hetzner main server: Approx. $66
-- Hetzner web server: Approx.  $8
-- Hetzner test server: Approx. $15
+- OVH main server: $114.00 + tax
+- OVH web server: $11.50 + tax
+- OVH test server: $34 + tax
 
 **Domains:**
 - semivanilla.com: $1 ($12/yr) + tax

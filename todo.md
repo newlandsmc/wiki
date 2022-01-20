@@ -8,6 +8,7 @@
     - Add command output and help output
     - Add instant expeditions
     - Change expedition retention policies
+    - Make items for instant expeditions (rewards and purchased) different from regular expeditions
 - SquaremapPlayers - _started by destro_
     - Prevent circles from going too much outside worldborder 
 - ALL PLUGINS

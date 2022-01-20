@@ -2,12 +2,8 @@
 
 ## Configuring:
 
-- Figure out how to handle hoppers in LWCX
-
 ## Coding - improvements:
 
-- Bounties
-    - Figure out a way to avoid people abusing it for XP
 - ALL PLUGINS
     - Configurable help output (header, footer, line format)
     - /\<plugin\> help command
@@ -26,7 +22,6 @@
 
 - Test message colors/formats
 - Check that plugins messages are consistent (particularly errors and help output)
-- Test server performance?
 - Test Expeditions for exploits?
 - Test help output and command auto-complete?
 
@@ -34,3 +29,6 @@
 
 - Figre out how to handle staff wanting to play
     - Staff enable/disable command ?
+- LWCX Improvemments (requested, denied)
+    - Allow hopper-in by default
+    - Add functionality to set others as owners

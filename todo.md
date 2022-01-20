@@ -2,7 +2,7 @@
 
 ## Configuring:
 
-## Coding - improvements:
+## Development - improvements:
 
 - Expeditions - _started by cookie_
     - Add command output and help output
@@ -16,15 +16,18 @@
     - README.md
     - Configurable no-permission message
     - Configurable command-error message
-- CombatLogX  - _started by CombatLogX developer_
-    - Fix double messages and death message on join
 
-## Coding - new:
+## Development - new:
 
 - Write plugin for respawn handling _- started by cookie_
     - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/respawn-handler.md
 - Find/write a plugin for warps _- started by Alen_
     - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/fast-travel.md
+
+## Development - external:
+
+- CombatLogX  - _started by CombatLogX developer_
+    - Fix double messages and death message on join
 
 ## Testing:
 
@@ -40,3 +43,4 @@
 - LWCX Improvemments (requested, denied)
     - Allow hopper-in by default
     - Add functionality to set others as owners
+- New Banner _- started by OwninsProds_

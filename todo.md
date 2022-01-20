@@ -4,6 +4,12 @@
 
 ## Coding - improvements:
 
+- Expeditions - _started by cookie_
+    - Add command output and help output
+    - Add instant expeditions
+    - Change expedition retention policies
+- SquaremapPlayers - _started by destro_
+    - Prevent circles from going too much outside worldborder 
 - ALL PLUGINS
     - Configurable help output (header, footer, line format)
     - /\<plugin\> help command

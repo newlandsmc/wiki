@@ -20,7 +20,11 @@ AFKPlus                     | Public   | https://www.spigotmc.org/resources/afk.
 AureliumSkills              | Public   | https://www.spigotmc.org/resources/aurelium-skills-advanced-skills-stats-abilities-and-more.81069/ | | NA
 Bounties                    | Custom   | | https://github.com/SemiVanilla-MC/Bounties | Alen_Alex
 BuycraftX                   | Public   | https://server.tebex.io/ | | NA
+ChatFilter                  | Public   | https://www.spigotmc.org/resources/chatfilter-filter-chat-signs-books-and-anvils.81652/ | | NA
 Chunky                      | Public   | https://www.spigotmc.org/resources/chunky.81534/ | | NA
+Citizens                    | Premium  | https://www.spigotmc.org/resources/citizens.13811/ | https://ci.citizensnpcs.co/job/Citizens2/ | NA
+CombatLogX                  | Public   | https://www.spigotmc.org/resources/combatlogx.31689/ | | NA
+CommandResponder            | Custom   | | https://github.com/SemiVanilla-MC/CommandResponder | Alen_Alex
 CookieCore                  | Custom   | | https://github.com/SemiVanilla-MC/CookieCore | Cookie
 CoreProtect                 | Public   | https://www.spigotmc.org/resources/coreprotect.8631/ | | NA
 CustomMOTD                  | Custom   | | https://github.com/SemiVanilla-MC/CustomMOTD | Destro
@@ -30,6 +34,7 @@ EssentialsXChat             | Public   | https://essentialsx.net/downloads.html 
 Exhaustion                  | Premium  | https://www.spigotmc.org/resources/exhaustion.73031/ | | NA
 Expeditions                 | Custom   | | https://github.com/SemiVanilla-MC/Expeditions | Cookie
 GameruleManager             | Custom   | | https://github.com/SemiVanilla-MC/GameruleManager | Destro
+GSit                        | Public   | https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-14-x-1-18-x.62325/ | | NA
 HolographicDisplays         | Public   | https://dev.bukkit.org/projects/holographic-displays | | NA
 JakesRTP                    | Public   | https://www.spigotmc.org/resources/jakes-rtp.80201/ | | NA
 JoinHandler                 | Custom   | | https://github.com/SemiVanilla-MC/JoinHandler | Cookie
@@ -45,8 +50,8 @@ PlaceholderAPI              | Public   | https://www.spigotmc.org/resources/plac
 PremiumVanish               | Premium  | https://www.spigotmc.org/resources/premiumvanish-stay-hidden-bungee-support.14404/ | | NA
 ProtectedSpawners           | Custom   | | https://github.com/SemiVanilla-MC/ProtectedSpawners | Destro
 ProtocolLib                 | Public   | https://www.spigotmc.org/resources/protocollib.1997/ | https://ci.dmulloy2.net/job/ProtocolLib/lastSuccessfulBuild/ | NA
-RegexFilter                 | Public   | https://www.spigotmc.org/resources/regexfilter.96416/ | | NA
 ShulkerPacks                | Public   | https://www.spigotmc.org/resources/shulker-backpacks-1-13-1-17.67466/ | | NA
+SirBlobmanCore              | Public   | https://www.spigotmc.org/resources/sirblobmancore.83189/ | | NA
 SquareMap                   | Public   | | https://github.com/jpenilla/squaremap | NA
 SquareMapPlayers            | Custom   | | https://github.com/SemiVanilla-MC/SquaremapPlayers | Destro
 Staff Chat                  | Public   | https://www.spigotmc.org/resources/1-7-1-18-staff-chat.92585/ | | NA
@@ -64,6 +69,7 @@ ChunkyBorder                | Public   | https://www.spigotmc.org/resources/chun
 GriefPrevention             | Public   | https://www.spigotmc.org/resources/griefprevention.1884/ | https://ci.appveyor.com/project/RoboMWM39862/griefprevention/history | NA
 mcMMO                       | Public   | https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/updates | | NA
 Pl3xMap                     | Public   | https://github.com/NeumimTo/Pl3xMap | | NA
+RegexFilter                 | Public   | https://www.spigotmc.org/resources/regexfilter.96416/ | | NA
 
 
 ## Hosts:

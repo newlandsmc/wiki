@@ -16,6 +16,8 @@
     - README.md
     - Configurable no-permission message
     - Configurable command-error message
+- CombatLogX  - _started by CombatLogX developer_
+    - Fix double messages and death message on join
 
 ## Coding - new:
 

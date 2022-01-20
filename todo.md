@@ -10,6 +10,7 @@
     - Change expedition retention policies
     - Make items for instant expeditions (rewards and purchased) different from regular expeditions
     - Implement vanilla-like loot picking algorithm
+    - Add support for enchants and potions
 - SquaremapPlayers - _started by destro_
     - Prevent circles from going too much outside worldborder 
 - ALL PLUGINS

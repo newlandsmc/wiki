@@ -30,6 +30,9 @@ Just storing this here temporarily until I get around to keep better documentati
 - Special Alen_Alex: $100 + frgn trans fee
 - Special Cat: $50 + frgn trans fee
 - Week 2 Cookie: $165
+- Week 3 Destro: $30
+- Week 3 Cookie: $165
+- Week 3 Alen: $225
 
 **Logo:**
 > Note: Logo purchases are split into half payments if looking at transaction history)

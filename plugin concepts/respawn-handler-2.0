@@ -11,10 +11,11 @@ When players die a corpse appears where they died, and contains their items, unl
 - Corpse can only be looted by the dead player for the first 10 minutes. A nametag should display a countdown until it's unlocked
 - After the 10 minutes, the nametag should switch to a countdown to when it despawns
 - A message should die when they respawn that can be customized, so we can use it to explain the corpse and soulbound system
+- Souls can be represented with a physical item that when picked up is removed from them and they are given souls. Corpses should contain the souls of the person who died
 
 ## Commands
 
-TBD
+- \/soulbound give <player> <number>
 
 ## Messages
 

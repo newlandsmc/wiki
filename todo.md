@@ -30,6 +30,7 @@
 - Custom story messages
     - A plugin that lets us configure any command to play any story messages so we can leverage that in various parts of the server
 - Custom help plugin
+- Plugin that says "you feel well rested" when a player lays in a bed
 
 ## Development - external
 

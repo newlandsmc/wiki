@@ -11,6 +11,7 @@
     - Make items for instant expeditions (rewards and purchased) different from regular expeditions
     - Implement vanilla-like loot picking algorithm
     - Add support for enchants and potions
+    - Add black stained glass with no name in all empty GUI slots
 - SquaremapPlayers - _started by destro_
     - Prevent circles from going too much outside worldborder 
 - ALL PLUGINS
@@ -28,6 +29,7 @@
     - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/fast-travel.md
 - Custom story messages
     - A plugin that lets us configure any command to play any story messages so we can leverage that in various parts of the server
+- Custom help plugin
 
 ## Development - external
 

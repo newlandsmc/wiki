@@ -2,15 +2,15 @@
 
 ## Overview
 
-When players die a corpse appears where they died, and contains their items, unless an item had the "soulbound" enchant, then they keep it. They respawn at their bed, which is a vanilla behavior.
+"The enderdragon randomly spawns somewhere in the end and compasses in the end point to the enderdragon."
+
+"The dragon should always spawn on an island and stay centered around that island"
+
+"The radius around 0,0 in which the dragon can potentially respawn should be configurable"
 
 ## Behavior
 
-- Custom soulbound enchant let's people keep their items when they die
-- Corpse spawns at their death point - last 3 corpses per player, and they stay for 48 hours or until they are completely looted
-- Corpse can only be looted by the dead player for the first 10 minutes. A nametag should display a countdown until it's unlocked
-- After the 10 minutes, the nametag should switch to a countdown to when it despawns
-- A message should die when they respawn that can be customized, so we can use it to explain the corpse and soulbound system
+TBD
 
 ## Commands
 

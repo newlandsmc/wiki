@@ -17,13 +17,14 @@ Destro    | Destro#9563 | destro174
 Plugin                      |   Type   |  Main Page  | Dev Build | Maintainer
 --------------------------- | -------- | ----------- | --------- | -------------
 AFKPlus                     | Public   | https://www.spigotmc.org/resources/afk.35065/ | | NA
+AnnouncerPlus               | Public   | https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/ | | NA
+AntiCombatLog               | Public   | https://www.spigotmc.org/resources/anticombatlog.94540/ | | NA
 AureliumSkills              | Public   | https://www.spigotmc.org/resources/aurelium-skills-advanced-skills-stats-abilities-and-more.81069/ | | NA
 Bounties                    | Custom   | | https://github.com/SemiVanilla-MC/Bounties | Alen_Alex
 BuycraftX                   | Public   | https://server.tebex.io/ | | NA
 ChatFilter                  | Public   | https://www.spigotmc.org/resources/chatfilter-filter-chat-signs-books-and-anvils.81652/ | | NA
 Chunky                      | Public   | https://www.spigotmc.org/resources/chunky.81534/ | | NA
 Citizens                    | Premium  | https://www.spigotmc.org/resources/citizens.13811/ | https://ci.citizensnpcs.co/job/Citizens2/ | NA
-CombatLogX                  | Public   | https://www.spigotmc.org/resources/combatlogx.31689/ | | NA
 CommandResponder            | Custom   | | https://github.com/SemiVanilla-MC/CommandResponder | Alen_Alex
 CookieCore                  | Custom   | | https://github.com/SemiVanilla-MC/CookieCore | Cookie
 CoreProtect                 | Public   | https://www.spigotmc.org/resources/coreprotect.8631/ | | NA
@@ -51,7 +52,6 @@ PremiumVanish               | Premium  | https://www.spigotmc.org/resources/prem
 ProtectedSpawners           | Custom   | | https://github.com/SemiVanilla-MC/ProtectedSpawners | Destro
 ProtocolLib                 | Public   | https://www.spigotmc.org/resources/protocollib.1997/ | https://ci.dmulloy2.net/job/ProtocolLib/lastSuccessfulBuild/ | NA
 ShulkerPacks                | Public   | https://www.spigotmc.org/resources/shulker-backpacks-1-13-1-17.67466/ | | NA
-SirBlobmanCore              | Public   | https://www.spigotmc.org/resources/sirblobmancore.83189/ | | NA
 SquareMap                   | Public   | | https://github.com/jpenilla/squaremap | NA
 SquareMapPlayers            | Custom   | | https://github.com/SemiVanilla-MC/SquaremapPlayers | Destro
 Staff Chat                  | Public   | https://www.spigotmc.org/resources/1-7-1-18-staff-chat.92585/ | | NA

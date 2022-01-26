@@ -19,6 +19,7 @@
     - Configurable no-permission message
     - Configurable command-error message
 - Clean up unecessary features in AnnouncerPlus
+- Figure out how to make Bounties support AntiCombatLog
 
 ## Development - new
 

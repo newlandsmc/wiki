@@ -18,6 +18,7 @@
     - README.md
     - Configurable no-permission message
     - Configurable command-error message
+- Clean up unecessary features in AnnouncerPlus
 
 ## Development - new
 

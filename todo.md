@@ -9,7 +9,7 @@
 
 ## Development - improvements
 
-- Expeditions - _started by cookie_
+- Expeditions
     - Add command output and help output
     - Add instant expeditions
     - Change expedition retention policies
@@ -24,8 +24,7 @@
     - Configurable no-permission message
     - Configurable command-error message
 - Rewrite AnnouncerPlus _-started by Alen_Alex_
-- Figure out how to make Bounties support AntiCombatLog
-- Update Anti-Xray-Plus ?
+- Figure out how to make Bounties support AntiCombatLog  _-started by Alen_Alex & Badbird_
 
 ## Development - new
 
@@ -33,7 +32,7 @@
     - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/respawn-handler.md
 - Custom story messages
     - A plugin that lets us configure any command to play any story messages so we can leverage that in various parts of the server
-- Custom help plugin _- started by cookie_
+- Custom help plugin
 
 ## Development - external
 

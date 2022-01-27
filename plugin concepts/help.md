@@ -16,6 +16,8 @@ Discord opens link to: https://discord.gg/3WzZ3x6wGp
 Rules opens link to: https://semivanilla.com/rules
 Help opens a book
 
+**Update**: Links will open a book. Preferably, all of this content is stored in the same book, and each GUI open opens the relevant page of said book.
+
 Need config for the help book that supports color codes and new lines
 
 ## Commands

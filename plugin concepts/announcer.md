@@ -12,6 +12,8 @@ There is a configurable title that is displayed on player login, and a different
 
 There is also a configurable sound that is played, at a configurable login, every time the title is shown.
 
+Must have mimimessage support for everything
+
 ## Commands
 
 TBD

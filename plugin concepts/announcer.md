@@ -8,7 +8,7 @@ Sends announcements in chat on a configurable timer and also displays a title (a
 
 Every X minutes the plugin grabs a random announcement from a configurable list of announcements and broadcasts it in chat.
 
-There is a configurable title that is displayed on player login, and a different one is used if the player is new. This title has a configurable fade in time, stay time, and fade out time. It also have a configurable delay after logging out so a player doesn't see it if they quickly reconnect.
+There is a configurable title that is displayed on player login, and a different one is used if the player is new. This title has a configurable fade in time, stay time, and fade out time. It also have a configurable cooldown after logging out so a player doesn't see it if they quickly reconnect.
 
 There is also a configurable sound that is played, at a configurable login, every time the title is shown.
 

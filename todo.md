@@ -2,6 +2,11 @@
 
 ## Configuring
 
+- Design and implement new Ender Dragon drops
+- Design and implement new Vote drops
+- Design and implement new Expedition drops
+- Design and implement boss mob for video (and keep afterwards)
+
 ## Development - improvements
 
 - Expeditions - _started by cookie_
@@ -33,8 +38,11 @@
 
 - Suggest to Exhaustion dev - says "you feel well rested" when a player lays in a bed
 - Disable BossBar in Lands
+- Add HEX support to ChatItem
 
 ## Testing
+
+- Test if Citizens can be used for a villager outpost
 
 ## Other
 

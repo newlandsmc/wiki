@@ -2,10 +2,10 @@
 
 ## Configuring
 
-- Design and implement new Ender Dragon drops
-- Design and implement new Vote drops
-- Design and implement new Expedition drops
-- Design and implement boss mob for video (and keep afterwards)
+- Design and implement new Ender Dragon drops _-started by ClayGoddessSari_
+- Design and implement new Vote drops _-started by ClayGoddessSari_
+- Design and implement new Expedition drops _-started by ClayGoddessSari_
+- Design and implement boss mob for video (and keep afterwards) _-started by ClayGoddessSari_
 
 ## Development - improvements
 
@@ -42,7 +42,7 @@
 
 ## Testing
 
-- Test if Citizens can be used for a villager outpost
+- Test if Citizens can be used for a villager outpost _-started by ClayGoddessSari_
 
 ## Other
 

@@ -17,14 +17,13 @@
     - Implement vanilla-like loot picking algorithm
     - Add support for enchants and potions
     - Add black stained glass with no name in all empty GUI slots
+- Figure out how to make Bounties support AntiCombatLog  _-started by Alen_Alex & Badbird_
 - ALL PLUGINS
     - Configurable help output (header, footer, line format)
     - /\<plugin\> help command
     - README.md
     - Configurable no-permission message
     - Configurable command-error message
-- Rewrite AnnouncerPlus _-started by Alen_Alex_
-- Figure out how to make Bounties support AntiCombatLog  _-started by Alen_Alex & Badbird_
 
 ## Development - new
 

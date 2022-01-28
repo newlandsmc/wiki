@@ -34,7 +34,6 @@
 
 ## Development - external
 
-- Suggest to Exhaustion dev - says "you feel well rested" when a player lays in a bed
 - Disable BossBar in Lands
 - Add HEX support to ChatItem
 

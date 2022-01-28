@@ -32,7 +32,6 @@
     - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/respawn-handler.md
 - Custom story messages
     - A plugin that lets us configure any command to play any story messages so we can leverage that in various parts of the server
-- Custom help plugin _- started by Badbird_
 
 ## Development - external
 

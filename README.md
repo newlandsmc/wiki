@@ -10,6 +10,7 @@ Paper MC v1.18.1
 Developer |   Discord   | Github
 --------- | ----------- | ---------
 Alen_Alex | < 𝓐𝓵𝓮𝓷_𝓐𝓵𝓮𝔁 !>#3836 | AlenGeoAlex
+Badbird   | Badbird5907#5907 | Badbird-5907
 Cookie    | Cookie#8723 | GoldenCookieGIT
 Destro    | Destro#9563 | destro174
 

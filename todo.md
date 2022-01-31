@@ -21,6 +21,7 @@
 - Figure out how to make Bounties support AntiCombatLog  _-started by Alen_Alex & Badbird_
 - EnderDragonTweaks
     - Fix drop rates - should be 1 to 5 items for a single person
+    - Add support for random enchant levels?
 - ALL PLUGINS
     - Configurable help output (header, footer, line format)
     - /\<plugin\> help command

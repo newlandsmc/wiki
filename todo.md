@@ -6,6 +6,7 @@
 - Design and implement new Vote drops _-started by ClayGoddessSari_
 - Design and implement new Expedition drops _-started by ClayGoddessSari_
 - Design and implement boss mob for video (and keep afterwards) _-started by ClayGoddessSari_
+- Design and implement more difficult mobs for higher level fighting players
 
 ## Development - improvements
 

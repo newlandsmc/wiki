@@ -17,6 +17,7 @@ Destro    | Destro#9563 | destro174
 ## Plugins:
 Plugin                      |   Type   |  Main Page  | Dev Build | Maintainer
 --------------------------- | -------- | ----------- | --------- | -------------
+AdvancedEnchantment         | Premium  | https://www.spigotmc.org/resources/1-8-1-18-1-%E2%AD%95-advancedenchantments-%E2%AD%90-450-custom-enchants-%E2%AD%90create-custom-enchantments-%E2%9C%85-50-sale.43058/ | | NA
 AFKPlus                     | Public   | https://www.spigotmc.org/resources/afk.35065/ | | NA
 AnnouncerPlus               | Public   | https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/ | | NA
 AntiCombatLog               | Public   | https://www.spigotmc.org/resources/anticombatlog.94540/ | | NA

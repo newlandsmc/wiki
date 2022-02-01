@@ -22,8 +22,10 @@ AFKPlus                     | Public   | https://www.spigotmc.org/resources/afk.
 AnnouncerPlus               | Public   | https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/ | | NA
 AntiCombatLog               | Public   | https://www.spigotmc.org/resources/anticombatlog.94540/ | | NA
 AureliumSkills              | Public   | https://www.spigotmc.org/resources/aurelium-skills-advanced-skills-stats-abilities-and-more.81069/ | | NA
+BetterCommandSpy            | Public   | https://www.spigotmc.org/resources/bettercommandspy.84030/ | | NA
 Bounties                    | Custom   | | https://github.com/SemiVanilla-MC/Bounties | Alen_Alex
 BuycraftX                   | Public   | https://server.tebex.io/ | | NA
+CarbonChat                  | Public   | https://github.com/Hexaoxide/Carbon | | NA
 ChatFilter                  | Public   | https://www.spigotmc.org/resources/chatfilter-filter-chat-signs-books-and-anvils.81652/ | | NA
 Chunky                      | Public   | https://www.spigotmc.org/resources/chunky.81534/ | | NA
 Citizens                    | Premium  | https://www.spigotmc.org/resources/citizens.13811/ | https://ci.citizensnpcs.co/job/Citizens2/ | NA
@@ -33,7 +35,6 @@ CoreProtect                 | Public   | https://www.spigotmc.org/resources/core
 CustomMOTD                  | Custom   | | https://github.com/SemiVanilla-MC/CustomMOTD | Destro
 EnderDragonTweaks           | Custom   | | https://github.com/SemiVanilla-MC/EnderDragonTweaks | Destro
 EssentialsX                 | Public   | https://essentialsx.net/downloads.html | | NA
-EssentialsXChat             | Public   | https://essentialsx.net/downloads.html | | NA
 Exhaustion                  | Premium  | https://www.spigotmc.org/resources/exhaustion.73031/ | | NA
 Expeditions                 | Custom   | | https://github.com/SemiVanilla-MC/Expeditions | Cookie
 FastTravel                  | Custom   | | https://github.com/SemiVanilla-MC/FastTravel | Alen_Alex
@@ -57,7 +58,6 @@ ProtocolLib                 | Public   | https://www.spigotmc.org/resources/prot
 ShulkerPacks                | Public   | https://www.spigotmc.org/resources/shulker-backpacks-1-13-1-17.67466/ | | NA
 SquareMap                   | Public   | | https://github.com/jpenilla/squaremap | NA
 SquareMapPlayers            | Custom   | | https://github.com/SemiVanilla-MC/SquaremapPlayers | Destro
-StaffChat                   | Public   | https://www.spigotmc.org/resources/1-7-1-18-staff-chat.92585/ | | NA
 TabList                     | Public   | https://www.spigotmc.org/resources/animated-tab-tablist.46229/ | | NA
 TradeSystem                 | Public   | https://www.spigotmc.org/resources/trade-system-custom-layouts.58434/ | | NA
 Vault                       | Public   | https://www.spigotmc.org/resources/vault.34315/ | | NA
@@ -70,12 +70,14 @@ WorldGuard                  | Public   | https://dev.bukkit.org/projects/worldgu
 Plugin                      |   Type   |  Main Page  | Dev Build | Maintainer
 --------------------------- | -------- | ----------- | --------- | -------------
 ChunkyBorder                | Public   | https://www.spigotmc.org/resources/chunkyborder.84278/ | | NA
+EssentialsXChat             | Public   | https://essentialsx.net/downloads.html | | NA
 GriefPrevention             | Public   | https://www.spigotmc.org/resources/griefprevention.1884/ | https://ci.appveyor.com/project/RoboMWM39862/griefprevention/history | NA
 LWCTrust                    | Public   | https://www.spigotmc.org/resources/lwc-trust.75580/ | | NA
 LWCX                        | Public   | https://www.spigotmc.org/resources/lwc-extended.69551/ | | NA
 mcMMO                       | Public   | https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/updates | | NA
 Pl3xMap                     | Public   | https://github.com/NeumimTo/Pl3xMap | | NA
 RegexFilter                 | Public   | https://www.spigotmc.org/resources/regexfilter.96416/ | | NA
+StaffChat                   | Public   | https://www.spigotmc.org/resources/1-7-1-18-staff-chat.92585/ | | NA
 
 
 ## Hosts:

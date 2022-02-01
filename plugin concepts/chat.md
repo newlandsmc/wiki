@@ -27,9 +27,9 @@ Nicknames should only be used in public chat. PMs and Staff Chat should use actu
 
 ## Messages
 
-Chat: `&f[%Luckperms-prefix%&f] &7%name%&f: %message%`
-PM: `&9[Whisper] %from% -> %to%: %message%`
-SC: `&e[Staff Chat] %name%: %message%`
+- Chat: `&f[%Luckperms-prefix%&f] &7%name%&f: %message%`
+- PM: `&9[Whisper] %from% -> %to%: %message%`
+- SC: `&e[Staff Chat] %name%: %message%`
 
 ## Config
 

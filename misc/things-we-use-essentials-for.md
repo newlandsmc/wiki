@@ -4,28 +4,28 @@ Chat:
 - nicknames
 - msg
 - mail -- not needed
-- socialspy
+- socialspy -- https://www.spigotmc.org/resources/bettercommandspy.84030/
 - chat formatting
 
 Teleportation:
-- tpa
-- tpahere
-- tp
-- command cooldown (tpa)
+- tpa -- https://www.spigotmc.org/resources/advancedteleport.64139/
+- tpahere -- https://www.spigotmc.org/resources/advancedteleport.64139/
+- tp -- https://www.spigotmc.org/resources/advancedteleport.64139/
+- command cooldown (tpa) -- https://www.spigotmc.org/resources/advancedteleport.64139/
 
 Admin:
-- speed
-- heal
-- spawnmob
-- ci
+- speed -- not needed
+- heal -- not needed
+- spawnmob -- vanilla support / MythicMobs support
+- ci -- not needed
 - invsee
 - echest
-- xp
+- xp -- vanilla support
 - god
 - joinfullserver
-- list
-- item / give
+- list -- not needed
+- item / give -- vanilla support
 - fly
-- gm
+- gm -- vanilla support
 - seen
 - whois

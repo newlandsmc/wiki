@@ -19,7 +19,7 @@ Plugin                      |   Type   |  Main Page  | Dev Build | Maintainer
 --------------------------- | -------- | ----------- | --------- | -------------
 AdvancedEnchantment         | Premium  | https://www.spigotmc.org/resources/1-8-1-18-1-%E2%AD%95-advancedenchantments-%E2%AD%90-450-custom-enchants-%E2%AD%90create-custom-enchantments-%E2%9C%85-50-sale.43058/ | | NA
 AFKPlus                     | Public   | https://www.spigotmc.org/resources/afk.35065/ | | NA
-AnnouncerPlus               | Public   | https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/ | | NA
+Announcer                   | Custom   | https://github.com/SemiVanilla-MC/Announcer | | Badbird
 AntiCombatLog               | Public   | https://www.spigotmc.org/resources/anticombatlog.94540/ | | NA
 AureliumSkills              | Public   | https://www.spigotmc.org/resources/aurelium-skills-advanced-skills-stats-abilities-and-more.81069/ | | NA
 BetterCommandSpy            | Public   | https://www.spigotmc.org/resources/bettercommandspy.84030/ | | NA
@@ -70,6 +70,7 @@ WorldGuard                  | Public   | https://dev.bukkit.org/projects/worldgu
 
 Plugin                      |   Type   |  Main Page  | Dev Build | Maintainer
 --------------------------- | -------- | ----------- | --------- | -------------
+AnnouncerPlus               | Public   | https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/ | | NA
 ChunkyBorder                | Public   | https://www.spigotmc.org/resources/chunkyborder.84278/ | | NA
 EssentialsXChat             | Public   | https://essentialsx.net/downloads.html | | NA
 GriefPrevention             | Public   | https://www.spigotmc.org/resources/griefprevention.1884/ | https://ci.appveyor.com/project/RoboMWM39862/griefprevention/history | NA

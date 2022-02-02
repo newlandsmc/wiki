@@ -27,7 +27,7 @@ Bounties                    | Custom   | | https://github.com/SemiVanilla-MC/Bou
 BuycraftX                   | Public   | https://server.tebex.io/ | | NA
 CarbonChat                  | Public   | https://github.com/Hexaoxide/Carbon | | NA
 ChatFilter                  | Public   | https://www.spigotmc.org/resources/chatfilter-filter-chat-signs-books-and-anvils.81652/ | | NA
-ChatItem                    | Custom   | | | Destro
+ChatItem                    | Custom   | | https://github.com/SemiVanilla-MC/ChatItem | Destro
 Chunky                      | Public   | https://www.spigotmc.org/resources/chunky.81534/ | | NA
 Citizens                    | Premium  | https://www.spigotmc.org/resources/citizens.13811/ | https://ci.citizensnpcs.co/job/Citizens2/ | NA
 CommandResponder            | Custom   | | https://github.com/SemiVanilla-MC/CommandResponder | Alen_Alex

@@ -7,6 +7,8 @@
 - Design and implement new Expedition drops _-started by ClayGoddessSari_
 - Design and implement boss mob for video (and keep afterwards) _-started by ClayGoddessSari_
 - Design and implement more difficult mobs for higher level fighting players
+- Remove spam filter for books
+- Add per-filter messages
 
 ## Development - improvements
 
@@ -39,11 +41,12 @@
 ## Development - external
 
 - Disable BossBar in Lands
-- Add HEX support to ChatItem
+- Fix formatting of filter notifications
 
 ## Testing
 
 - Test if Citizens can be used for a villager outpost _-started by ClayGoddessSari_
+- Test Enchants for balance, bugs, etc
 
 ## Other
 

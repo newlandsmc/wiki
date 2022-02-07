@@ -19,6 +19,7 @@
     - Implement vanilla-like loot picking algorithm
     - Add support for enchants and potions
     - Add black stained glass with no name in all empty GUI slots
+    - Add notice on join if player voted while offline
 - EnderDragonTweaks
     - Fix drop rates - should be 1 to 5 items for a single person
     - Add support for random enchant levels?

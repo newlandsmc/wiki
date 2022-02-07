@@ -1,11 +1,11 @@
 # Things we use EssentialsX for:
 
 Chat:
-- nicknames
-- msg
+~~- nicknames~~
+~~- msg~~
 - mail -- not needed
-- socialspy -- https://www.spigotmc.org/resources/bettercommandspy.84030/
-- chat formatting
+~~- socialspy -- https://www.spigotmc.org/resources/bettercommandspy.84030/~~
+~~- chat formatting~~
 
 Teleportation:
 - tpa -- https://www.spigotmc.org/resources/advancedteleport.64139/

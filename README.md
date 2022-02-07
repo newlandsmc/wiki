@@ -9,6 +9,7 @@ Paper MC v1.18.1
 ## Developers:
 Developer |   Discord   | Github
 --------- | ----------- | ---------
+A4Papers  | A4Papers#3211 | A4Papers
 Alen_Alex | < 𝓐𝓵𝓮𝓷_𝓐𝓵𝓮𝔁 !>#3836 | AlenGeoAlex
 Badbird   | Badbird5907#5907 | Badbird-5907
 Cookie    | Cookie#8723 | GoldenCookieGIT

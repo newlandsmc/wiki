@@ -5,10 +5,9 @@
 - Design and implement new Ender Dragon drops _-started by ClayGoddessSari_
 - Design and implement new Vote drops _-started by ClayGoddessSari_
 - Design and implement new Expedition drops _-started by ClayGoddessSari_
-- Design and implement boss mob for video (and keep afterwards) _-started by ClayGoddessSari_
-- Design and implement more difficult mobs for higher level fighting players
+- Design and implement boss mob for video (and keep afterwards) _- assigned to MrJoWeed_
+- Design and implement more difficult mobs for higher level fighting players _- assigned to MrJoWeed_
 - Remove spam filter for books
-- Add per-filter messages
 
 ## Development - improvements
 
@@ -20,7 +19,6 @@
     - Implement vanilla-like loot picking algorithm
     - Add support for enchants and potions
     - Add black stained glass with no name in all empty GUI slots
-- Figure out how to make Bounties support AntiCombatLog  _-started by Alen_Alex & Badbird_
 - EnderDragonTweaks
     - Fix drop rates - should be 1 to 5 items for a single person
     - Add support for random enchant levels?
@@ -41,7 +39,6 @@
 ## Development - external
 
 - Disable BossBar in Lands
-- Fix formatting of filter notifications
 
 ## Testing
 
@@ -50,7 +47,4 @@
 
 ## Other
 
-- Figre out how to handle staff wanting to play
-    - Staff enable/disable command ?
-- New Banner _- started by OwninsProds_
 - Make promo video

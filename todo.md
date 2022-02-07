@@ -22,6 +22,10 @@
 - EnderDragonTweaks
     - Fix drop rates - should be 1 to 5 items for a single person
     - Add support for random enchant levels?
+- CookieCore
+    - Add response to messages/commands player sends "Want to skip this story? Use /skip"
+    - Cancel commands the player attempts to send
+- Figure out how to cancel invincibility ticks on join
 - ALL PLUGINS
     - Configurable help output (header, footer, line format)
     - /\<plugin\> help command

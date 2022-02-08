@@ -40,7 +40,9 @@ EssentialsX                 | Public   | https://essentialsx.net/downloads.html 
 Exhaustion                  | Premium  | https://www.spigotmc.org/resources/exhaustion.73031/ | | NA
 Expeditions                 | Custom   | | https://github.com/SemiVanilla-MC/Expeditions | Cookie
 FastTravel                  | Custom   | | https://github.com/SemiVanilla-MC/FastTravel | Alen_Alex
+Floodgate                   | Public   | | https://github.com/GeyserMC/Floodgate/ | NA
 GameruleManager             | Custom   | | https://github.com/SemiVanilla-MC/GameruleManager | Destro
+Geyser                      | Public   | https://geysermc.org/ | | NA
 GSit                        | Public   | https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-14-x-1-18-x.62325/ | | NA
 HelpPlugin                  | Custom   | | https://github.com/SemiVanilla-MC/HelpPlugin | Badbird
 HolographicDisplays         | Public   | https://dev.bukkit.org/projects/holographic-displays | | NA

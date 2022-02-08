@@ -24,7 +24,7 @@ Announcer                   | Custom   | https://github.com/SemiVanilla-MC/Annou
 AntiCombatLog               | Public   | https://www.spigotmc.org/resources/anticombatlog.94540/ | | NA
 AureliumSkills              | Public   | https://www.spigotmc.org/resources/aurelium-skills-advanced-skills-stats-abilities-and-more.81069/ | | NA
 BetterCommandSpy            | Public   | https://www.spigotmc.org/resources/bettercommandspy.84030/ | | NA
-Bounties                    | Custom   | | https://github.com/SemiVanilla-MC/Bounties | Alen_Alex
+Bounties                    | Custom   | | https://github.com/SemiVanilla-MC/BountiesV2 | Alen_Alex
 BuycraftX                   | Public   | https://server.tebex.io/ | | NA
 CarbonChat                  | Public   | https://github.com/Hexaoxide/Carbon | | NA
 ChatFilter                  | Public   | https://www.spigotmc.org/resources/chatfilter-filter-chat-signs-books-and-anvils.81652/ | | NA

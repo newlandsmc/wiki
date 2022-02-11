@@ -27,7 +27,7 @@ AureliumSkills              | Public   | https://www.spigotmc.org/resources/aure
 BetterCommandSpy            | Public   | https://www.spigotmc.org/resources/bettercommandspy.84030/ | | NA
 Bounties                    | Custom   | | https://github.com/SemiVanilla-MC/BountiesV2 | Alen_Alex
 BuycraftX                   | Public   | https://server.tebex.io/ | | NA
-CarbonChat                  | Public   | https://github.com/Hexaoxide/Carbon | | NA
+CarbonChat                  | Public   | | https://github.com/Hexaoxide/Carbon | NA
 ChatFilter                  | Public   | https://www.spigotmc.org/resources/chatfilter-filter-chat-signs-books-and-anvils.81652/ | | NA
 ChatItem                    | Custom   | | https://github.com/SemiVanilla-MC/ChatItem | Destro
 Chunky                      | Public   | https://www.spigotmc.org/resources/chunky.81534/ | | NA

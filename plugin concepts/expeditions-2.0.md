@@ -32,7 +32,7 @@ Attempting to click on an expedition for which you do not have any spoils to cla
 - Notify the player in chat as soon as they receive one of these.
 - These should stack. Each time they click on the GUI icon they open one of these, until they don't have any left.
 
-**Super Vote Expeditions***
+**Super Vote Expeditions**
 - Should be rewarded after the player votes on every site. The list of sites to listen for should be configurable. Ignore votes received from sites not in the list.
 - Notify the player in chat as soon as they receive one of these.
 - These should stack. Each time they click on the GUI icon they open one of these, until they don't have any left.

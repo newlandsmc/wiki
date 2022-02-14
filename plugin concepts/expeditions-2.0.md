@@ -6,7 +6,7 @@ Rewards given to players when they rejoin and/or vote. Players should be able to
 - "Daily Expeditions"
 - "Premium Expeditions"
 - "Vote Expeditions"
-- "Weekly Vote Expeditions"
+- "Super Vote Expeditions"
 
 They can click on any of these to open a second GUI page with items to "claim" (move to their inventory) from that particular Expedition.
 

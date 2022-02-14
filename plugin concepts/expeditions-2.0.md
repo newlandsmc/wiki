@@ -62,5 +62,7 @@ TBD
 Reusable Code:
 
 You may be able to reuse portions of Expeditions 1.0 (such as the Votifier integration), or the loot generation code from EnderDragonTweaks.
+
 https://github.com/SemiVanilla-MC/Expeditions
+
 https://github.com/SemiVanilla-MC/EnderDragonTweaks

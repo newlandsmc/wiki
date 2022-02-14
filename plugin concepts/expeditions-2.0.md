@@ -23,7 +23,7 @@ Attempting to click on an expedition for which you do not have any spoils to cla
 
 **Premium Expeditions**
 - Will be purchaseable in the store. I need a command I can use to give someone a Premium Expedition to claim. I'd like to be able to specify a number in the command for how many "premium expeditions" to give a player.
-- Should also be given to a player after they receive a "super vote expedition" 7 days in a row.
+- Should also automatically be given to a player after they receive a "super vote expedition" 7 days in a row.
 - Notify the player in chat as soon as they receive one of these.
 - These should stack. Each time they click on the GUI icon they open one of these, until they don't have any left.
 

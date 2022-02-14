@@ -51,7 +51,7 @@ Attempting to click on an expedition for which you do not have any spoils to cla
 
 ## Messages
 
-- <orange>You've received a ___ Expedition! Use <gradient:yellow:orange>/spoils</gradient> now to claim your reward.</orange>
+- \<orange\>You've received a ___ Expedition! Use \<gradient:yellow:orange\>/spoils\</gradient\> now to claim your reward.\</orange\>
 
 ## Config
 

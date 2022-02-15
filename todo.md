@@ -5,13 +5,12 @@
 - Design and implement new Ender Dragon drops _-started by ClayGoddessSari_
 - Design and implement new Vote drops _-started by ClayGoddessSari_
 - Design and implement new Expedition drops _-started by ClayGoddessSari_
-- Design and implement boss mob for video (and keep afterwards) _- assigned to MrJoWeed_
-- Design and implement more difficult mobs for higher level fighting players _- assigned to MrJoWeed_
+- Design and implement more difficult mobs for higher level fighting players _- assigned to OverFakke_
 - Remove spam filter for books
 
 ## Development - improvements
 
-- Expeditions
+- Expeditions _-started by Badbird_
     - Add command output and help output
     - Add instant expeditions
     - Change expedition retention policies
@@ -20,7 +19,7 @@
     - Add support for enchants and potions
     - Add black stained glass with no name in all empty GUI slots
     - Add notice on join if player voted while offline
-- EnderDragonTweaks
+- EnderDragonTweaks _-started by Destro_
     - Fix drop rates - should be 1 to 5 items for a single person
     - Add support for random enchant levels?
 - Figure out how to cancel invincibility ticks on join

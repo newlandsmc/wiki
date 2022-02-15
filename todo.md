@@ -23,9 +23,6 @@
 - EnderDragonTweaks
     - Fix drop rates - should be 1 to 5 items for a single person
     - Add support for random enchant levels?
-- CookieCore
-    - Add response to messages/commands player sends "Want to skip this story? Use /skip"
-    - Cancel commands the player attempts to send
 - Figure out how to cancel invincibility ticks on join
 - ALL PLUGINS
     - Configurable help output (header, footer, line format)
@@ -44,6 +41,7 @@
 ## Development - external
 
 - Disable BossBar in Lands
+- AE bugs (https://github.com/GC-spigot/AdvancedEnchantments/issues/created_by/bdagenais2)
 
 ## Testing
 
@@ -52,4 +50,5 @@
 
 ## Other
 
-- Make promo video
+- Make improved promo video?
+- Collect expenses

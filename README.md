@@ -61,7 +61,7 @@ PremiumVanish               | Premium  | https://www.spigotmc.org/resources/prem
 ProtectedSpawners           | Custom   | | https://github.com/SemiVanilla-MC/ProtectedSpawners | Destro
 ProtocolLib                 | Public   | https://www.spigotmc.org/resources/protocollib.1997/ | https://ci.dmulloy2.net/job/ProtocolLib/lastSuccessfulBuild/ | NA
 ShulkerPacks                | Public   | https://www.spigotmc.org/resources/shulker-backpacks-1-13-1-17.67466/ | | NA
-SquareMap                   | Public   | | https://github.com/jpenilla/squaremap | NA
+SquareMap                   | Public   | https://github.com/jpenilla/squaremap | https://jenkins.jpenilla.xyz/job/squaremap/ | NA
 SquareMapPlayers            | Custom   | | https://github.com/SemiVanilla-MC/SquaremapPlayers | Destro
 TabList                     | Public   | https://www.spigotmc.org/resources/animated-tab-tablist.46229/ | | NA
 TradeSystem                 | Public   | https://www.spigotmc.org/resources/trade-system-custom-layouts.58434/ | | NA

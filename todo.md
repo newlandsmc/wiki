@@ -7,6 +7,8 @@
 - Design and implement new Expedition drops _-started by ClayGoddessSari_
 - Design and implement more difficult mobs for higher level fighting players _- assigned to OverFakke_
 - Remove spam filter for books
+- Improve Lands error message with wrong land selected to edit
+- Add more info to "Info" page of lands
 
 ## Development - improvements
 

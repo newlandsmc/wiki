@@ -19,14 +19,12 @@ OverFakke | OverFakke#7459 | OverFakke
 ## Plugins:
 Plugin                      |   Type   |  Main Page  | Dev Build | Maintainer
 --------------------------- | -------- | ----------- | --------- | -------------
-AdvancedEnchantment         | Premium  | https://www.spigotmc.org/resources/1-8-1-18-1-%E2%AD%95-advancedenchantments-%E2%AD%90-450-custom-enchants-%E2%AD%90create-custom-enchantments-%E2%9C%85-50-sale.43058/ | | NA
-AFKPlus                     | Public   | https://www.spigotmc.org/resources/afk.35065/ | | NA
+AdvancedEnchantments         | Premium  | https://www.spigotmc.org/resources/1-8-1-18-1-%E2%AD%95-advancedenchantments-%E2%AD%90-450-custom-enchants-%E2%AD%90create-custom-enchantments-%E2%9C%85-50-sale.43058/ | | NA
 Announcer                   | Custom   | https://github.com/SemiVanilla-MC/Announcer | | Badbird
 AntiCombatLog               | Public   | https://www.spigotmc.org/resources/anticombatlog.94540/ | | NA
 AureliumSkills              | Public   | https://www.spigotmc.org/resources/aurelium-skills-advanced-skills-stats-abilities-and-more.81069/ | | NA
 BetterCommandSpy            | Public   | https://www.spigotmc.org/resources/bettercommandspy.84030/ | | NA
 Bounties                    | Custom   | | https://github.com/SemiVanilla-MC/BountiesV2 | Alen_Alex
-BuycraftX                   | Public   | https://server.tebex.io/ | | NA
 CarbonChat                  | Public   | | https://github.com/Hexaoxide/Carbon | NA
 ChatFilter                  | Public   | https://www.spigotmc.org/resources/chatfilter-filter-chat-signs-books-and-anvils.81652/ | | NA
 ChatItem                    | Custom   | | https://github.com/SemiVanilla-MC/ChatItem | Destro
@@ -37,9 +35,10 @@ CookieCore                  | Custom   | | https://github.com/SemiVanilla-MC/Coo
 CoreProtect                 | Public   | https://www.spigotmc.org/resources/coreprotect.8631/ | | NA
 CustomMOTD                  | Custom   | | https://github.com/SemiVanilla-MC/CustomMOTD | Destro
 EnderDragonTweaks           | Custom   | | https://github.com/SemiVanilla-MC/EnderDragonTweaks | Destro
+EndRespawn                  | Custom   | | https://github.com/SemiVanilla-MC/EndRespawn | Badbird
 EssentialsX                 | Public   | https://essentialsx.net/downloads.html | | NA
 Exhaustion                  | Premium  | https://www.spigotmc.org/resources/exhaustion.73031/ | | NA
-Expeditions                 | Custom   | | https://github.com/SemiVanilla-MC/Expeditions | Cookie
+Expeditions                 | Custom   | | https://github.com/SemiVanilla-MC/Expeditions-2.0 | Badbird
 FastTravel                  | Custom   | | https://github.com/SemiVanilla-MC/FastTravel | Alen_Alex
 Floodgate                   | Public   | | https://github.com/GeyserMC/Floodgate/ | NA
 GameruleManager             | Custom   | | https://github.com/SemiVanilla-MC/GameruleManager | Destro
@@ -66,6 +65,8 @@ SquareMapPlayers            | Custom   | | https://github.com/SemiVanilla-MC/Squ
 TabList                     | Public   | https://www.spigotmc.org/resources/animated-tab-tablist.46229/ | | NA
 TradeSystem                 | Public   | https://www.spigotmc.org/resources/trade-system-custom-layouts.58434/ | | NA
 Vault                       | Public   | https://www.spigotmc.org/resources/vault.34315/ | | NA
+ViaBackwards                | Public   | https://www.spigotmc.org/resources/viabackwards.27448/ | | NA
+ViaVersion                  | Public   | https://www.spigotmc.org/resources/viaversion.19254/ | | NA
 Vulcan                      | Premium  | https://www.spigotmc.org/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-18-1.83626/ | | NA
 WorldEdit                   | Public   | https://dev.bukkit.org/projects/worldedit/files | https://builds.enginehub.org/job/worldedit?branch=master | NA
 WorldGuard                  | Public   | https://dev.bukkit.org/projects/worldguard/files | https://builds.enginehub.org/job/worldguard | NA
@@ -74,7 +75,9 @@ WorldGuard                  | Public   | https://dev.bukkit.org/projects/worldgu
 
 Plugin                      |   Type   |  Main Page  | Dev Build | Maintainer
 --------------------------- | -------- | ----------- | --------- | -------------
+AFKPlus                     | Public   | https://www.spigotmc.org/resources/afk.35065/ | | NA
 AnnouncerPlus               | Public   | https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/ | | NA
+BuycraftX                   | Public   | https://server.tebex.io/ | | NA
 ChunkyBorder                | Public   | https://www.spigotmc.org/resources/chunkyborder.84278/ | | NA
 EssentialsXChat             | Public   | https://essentialsx.net/downloads.html | | NA
 GriefPrevention             | Public   | https://www.spigotmc.org/resources/griefprevention.1884/ | https://ci.appveyor.com/project/RoboMWM39862/griefprevention/history | NA

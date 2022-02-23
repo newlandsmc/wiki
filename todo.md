@@ -3,8 +3,6 @@
 ## Configuring
 
 - Design and implement new Ender Dragon drops _-started by ClayGoddessSari_
-- Design and implement new Vote drops _-started by ClayGoddessSari_
-- Design and implement new Expedition drops _-started by ClayGoddessSari_
 - Design and implement more difficult mobs for higher level fighting players _- assigned to OverFakke_
 - Remove spam filter for books
 - Improve Lands error message with wrong land selected to edit
@@ -13,6 +11,13 @@
 ## Development - improvements
 
 - Figure out how to cancel invincibility ticks on join
+- Expeditions:
+    - add support for multiple daily expeditions
+    - change claim UI to mimic item-reveal UI
+    - fix super vote and premium not being given at right times (related to voting)
+- EnderDragonTweaks:
+    - figure out why broadcast of respawn sometimes doesn't send
+    - figure out why dragon sometimes doesn't respawn
 - ALL PLUGINS
     - Configurable help output (header, footer, line format)
     - /\<plugin\> help command

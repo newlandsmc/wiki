@@ -10,11 +10,12 @@
 
 ## Development - improvements
 
-- Figure out how to cancel invincibility ticks on join
+- FastTravel:
+    - add configurable GUI fillers
+    - remove bottom bar of GUI
+    - add option for fasttravels to unlocked for everyone by default
 - Expeditions:
-    - add support for multiple daily expeditions
     - change claim UI to mimic item-reveal UI
-    - fix super vote and premium not being given at right times (related to voting)
 - EnderDragonTweaks:
     - figure out why broadcast of respawn sometimes doesn't send
     - figure out why dragon sometimes doesn't respawn
@@ -36,8 +37,6 @@
 
 - Disable BossBar in Lands
 - AE bugs (https://github.com/GC-spigot/AdvancedEnchantments/issues/created_by/bdagenais2)
-- Make combat-tagged players vulnerable in claims
-- Make bounties vulnerable in claims
 
 ## Testing
 

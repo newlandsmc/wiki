@@ -10,6 +10,8 @@
 
 ## Development - improvements
 
+-Bounties:
+    - Fix MiniMessage support
 - FastTravel:
     - add configurable GUI fillers
     - remove bottom bar of GUI

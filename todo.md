@@ -30,6 +30,9 @@
 
 ## Development - new
 
+- Write plugin for toggling staff permissions _- started by Badbird_
+    - Uses luckperms API to add/remove group from player using command
+- Write sleep vote plugin
 - Write plugin for respawn handling _- started by cookie_
     - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/respawn-handler.md
 - Custom story messages

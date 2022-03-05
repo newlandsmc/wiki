@@ -46,7 +46,7 @@ GameruleManager             | Custom   | | https://github.com/SemiVanilla-MC/Gam
 Geyser                      | Public   | https://geysermc.org/ | | NA
 GSit                        | Public   | https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-14-x-1-18-x.62325/ | | NA
 HelpPlugin                  | Custom   | | https://github.com/SemiVanilla-MC/HelpPlugin | Badbird
-HolographicDisplays         | Public   | https://dev.bukkit.org/projects/holographic-displays | | NA
+HolographicDisplays         | Public   | https://dev.bukkit.org/projects/holographic-displays | https://ci.codemc.io/job/filoghost/job/HolographicDisplays/changes | NA
 JakesRTP                    | Public   | https://www.spigotmc.org/resources/jakes-rtp.80201/ | | NA
 JoinHandler                 | Custom   | | https://github.com/SemiVanilla-MC/JoinHandler | Cookie
 Lands                       | Premium  | https://www.spigotmc.org/resources/lands-land-claim-plugin-grief-prevention-protection-gui-management-nations-wars-1-18-support.53313/ | | NA

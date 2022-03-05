@@ -22,6 +22,7 @@ Plugin                      |   Type   |  Main Page  | Dev Build | Maintainer
 AdvancedEnchantments         | Premium  | https://www.spigotmc.org/resources/1-8-1-18-1-%E2%AD%95-advancedenchantments-%E2%AD%90-450-custom-enchants-%E2%AD%90create-custom-enchantments-%E2%9C%85-50-sale.43058/ | | NA
 Announcer                   | Custom   | https://github.com/SemiVanilla-MC/Announcer | | Badbird
 AntiCombatLog               | Public   | https://www.spigotmc.org/resources/anticombatlog.94540/ | | NA
+AntiLavaLockout             | Custom   | https://github.com/SemiVanilla-MC/AntiLavaLogout | | Badbird
 AureliumSkills              | Public   | https://www.spigotmc.org/resources/aurelium-skills-advanced-skills-stats-abilities-and-more.81069/ | | NA
 BetterCommandSpy            | Public   | https://www.spigotmc.org/resources/bettercommandspy.84030/ | | NA
 Bounties                    | Custom   | | https://github.com/SemiVanilla-MC/BountiesV2 | Alen_Alex

@@ -28,7 +28,6 @@ BetterCommandSpy            | Public   | https://www.spigotmc.org/resources/bett
 Bounties                    | Custom   | | https://github.com/SemiVanilla-MC/BountiesV2 | Alen_Alex
 CarbonChat                  | Public   | | https://github.com/Hexaoxide/Carbon | NA
 ChatFilter                  | Public   | https://www.spigotmc.org/resources/chatfilter-filter-chat-signs-books-and-anvils.81652/ | | NA
-ChatItem                    | Custom   | | https://github.com/SemiVanilla-MC/ChatItem | Destro
 Chunky                      | Public   | https://www.spigotmc.org/resources/chunky.81534/ | | NA
 Citizens                    | Premium  | https://www.spigotmc.org/resources/citizens.13811/ | https://ci.citizensnpcs.co/job/Citizens2/ | NA
 CommandResponder            | Custom   | | https://github.com/SemiVanilla-MC/CommandResponder | Alen_Alex
@@ -79,6 +78,7 @@ Plugin                      |   Type   |  Main Page  | Dev Build | Maintainer
 AFKPlus                     | Public   | https://www.spigotmc.org/resources/afk.35065/ | | NA
 AnnouncerPlus               | Public   | https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/ | | NA
 BuycraftX                   | Public   | https://server.tebex.io/ | | NA
+ChatItem                    | Custom   | | https://github.com/SemiVanilla-MC/ChatItem | Destro
 ChunkyBorder                | Public   | https://www.spigotmc.org/resources/chunkyborder.84278/ | | NA
 EssentialsXChat             | Public   | https://essentialsx.net/downloads.html | | NA
 GriefPrevention             | Public   | https://www.spigotmc.org/resources/griefprevention.1884/ | https://ci.appveyor.com/project/RoboMWM39862/griefprevention/history | NA

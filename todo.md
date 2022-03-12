@@ -16,8 +16,6 @@
 - ChatItem:
     - Add support for PMs
 - FastTravel:
-    - add configurable GUI fillers
-    - remove bottom bar of GUI
     - add option for fasttravels to unlocked for everyone by default
 - Expeditions:
     - change claim UI to mimic item-reveal UI

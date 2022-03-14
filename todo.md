@@ -52,7 +52,6 @@
 
 ## Development - external
 
-- Disable BossBar in Lands
 - AE bugs (https://github.com/GC-spigot/AdvancedEnchantments/issues/created_by/bdagenais2)
 
 ## Testing

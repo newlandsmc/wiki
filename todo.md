@@ -7,6 +7,8 @@
 - Improve Lands error message with wrong land selected to edit
 - Add more info to "Info" page of lands
 - Enable Wars on Khavalon
+- Add 30 day unvisited land expiration?
+- Add trading UI accessible at fast travels?
 
 ## Development - improvements
 

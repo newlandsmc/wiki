@@ -12,6 +12,8 @@
 
 ## Development - improvements
 
+- ShulkerPacks
+    - Fix item disappearing when in another inventory GUI? https://github.com/christopherwalkerml/ShulkerPacks/issues/20
 - JakesRTP:
     - Add support for Lands
 - Discord bot:

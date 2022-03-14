@@ -19,6 +19,7 @@
     - add option for fasttravels to unlocked for everyone by default
 - Expeditions:
     - change claim UI to mimic item-reveal UI
+    - fix enchants re-rolling
 - ALL PLUGINS
     - Configurable help output (header, footer, line format)
     - /\<plugin\> help command

@@ -6,6 +6,7 @@
 - Remove spam filter for books
 - Improve Lands error message with wrong land selected to edit
 - Add more info to "Info" page of lands
+- Enable Wars on Khavalon
 
 ## Development - improvements
 

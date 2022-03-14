@@ -14,7 +14,6 @@ Alen_Alex | < 𝓐𝓵𝓮𝓷_𝓐𝓵𝓮𝔁 !>#3836 | AlenGeoAlex
 Badbird   | Badbird5907#5907 | Badbird-5907
 Cookie    | Cookie#8723 | GoldenCookieGIT
 Destro    | Destro#9563 | destro174
-OverFakke | OverFakke#7459 | OverFakke
 
 ## Plugins:
 Plugin                      |   Type   |  Main Page  | Dev Build | Maintainer

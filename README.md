@@ -4,7 +4,7 @@ Welcome, this is the administrative wiki for the SemiVanilla Minecraft server.
 
 ## Server version:
 
-Paper MC v1.18.1
+Paper MC v1.18.2
 
 ## Developers:
 Developer |   Discord   | Github

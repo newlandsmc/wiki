@@ -8,23 +8,13 @@
 - Add more info to "Info" page of lands
 - Enable Wars on Khavalon
 - Add 30 day unvisited land expiration?
-- Add trading UI accessible at fast travels?
 
 ## Development - improvements
 
 - ShulkerPacks
     - Fix item disappearing when in another inventory GUI? https://github.com/christopherwalkerml/ShulkerPacks/issues/20
-- JakesRTP:
-    - Add support for Lands
-- Discord bot:
-    - Figure out solution for bugs, suggestions, and help channel
 - ChatItem:
     - Add support for PMs
-- FastTravel:
-    - add option for fasttravels to unlocked for everyone by default
-- Expeditions:
-    - change claim UI to mimic item-reveal UI
-    - fix enchants re-rolling
 - ALL PLUGINS
     - Configurable help output (header, footer, line format)
     - /\<plugin\> help command
@@ -34,19 +24,10 @@
 
 ## Development - new
 
-- Plugin to handle getting stuck in claimed netherportal
 - Sleep vote plugin
     - When player sleeps, tally vote for skipping night
     - Votes retained even if player stops sleeping
     - When enough players have "voted" skip night
-- Dummy mob for testing attack damage
-    - zombie with no AI and infinite health
-    - namtags appear around zombie each time it's hit with damage amount
-    - spawn with /dummy
-    - move with /dummy (again)
-    - remove with /dummy leave
-    - remove dummy if user logs out
-    - do not persist across reboots
 - Souls & Corpses (Respawn handling) _- started by cookie_
     - https://github.com/SemiVanilla-MC/wiki/blob/main/plugin%20concepts/respawn-handler.md
 - Custom story messages

@@ -10,9 +10,6 @@ Paper MC v1.18.2
 
 Plugin                      |   Type   |  Main Page  | Dev Build | Maintainer
 --------------------------- | -------- | ----------- | --------- | -------------
-nuVotifier                  | Public   | https://www.spigotmc.org/resources/nuvotifier.13449/ | | NA
-disablechorusfruit          | Public   | https://www.spigotmc.org/resources/chorus-fruit-disabler.87767/ | | NA
-FarmLimiter                 | Premium  | https://www.spigotmc.org/resources/farm-limiter.1419/ | | NA
 Advanced-Portals            | Public   | https://www.spigotmc.org/resources/advanced-portals.14356/ | | NA
 Announcer                   | Custom   | https://github.com/SemiVanilla-MC/Announcer | | Badbird
 BetterCommandSpy            | Public   | https://www.spigotmc.org/resources/bettercommandspy.84030/ | | NA

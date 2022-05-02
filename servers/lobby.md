@@ -33,3 +33,5 @@ ViaBackwards                | Public   | https://www.spigotmc.org/resources/viab
 ViaVersion                  | Public   | https://www.spigotmc.org/resources/viaversion.19254/ | | NA
 VoidGen                     | Public   | https://www.spigotmc.org/resources/voidgen.25391/ | | NA
 VoidSpawn                   | Public   | https://www.spigotmc.org/resources/voidspawn.19350/ | | NA
+WorldEdit                   | Public   | https://dev.bukkit.org/projects/worldedit/files | https://builds.enginehub.org/job/worldedit?branch=master | NA
+WorldGuard                  | Public   | https://dev.bukkit.org/projects/worldguard/files | https://builds.enginehub.org/job/worldguard | NA

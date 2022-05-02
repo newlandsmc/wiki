@@ -15,3 +15,4 @@ Floodgate                   | Public   | | https://github.com/GeyserMC/Floodgate
 Geyser                      | Public   | https://geysermc.org/ | | NA
 Litebans                    | Premium  | https://www.spigotmc.org/resources/litebans.3715/ | | NA
 LuckPerms                   | Public   | https://luckperms.net/download | | NA
+nuVotifier                  | Public   | https://www.spigotmc.org/resources/nuvotifier.13449/ | | NA

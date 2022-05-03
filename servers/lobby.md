@@ -25,7 +25,7 @@ LuckPerms                   | Public   | https://luckperms.net/download | | NA
 PlaceholderAPI              | Public   | https://www.spigotmc.org/resources/placeholderapi.6245/ | | NA
 PremiumVanish               | Premium  | https://www.spigotmc.org/resources/premiumvanish-stay-hidden-bungee-support.14404/ | | NA
 ProtocolLib                 | Public   | https://www.spigotmc.org/resources/protocollib.1997/ | https://ci.dmulloy2.net/job/ProtocolLib/lastSuccessfulBuild/ | NA
-ProxyPlayerCount            | Custom   | | ? | Badbird
+ProxyPlayerCount            | Custom   | | https://github.com/SemiVanilla-MC/ProxyPlayerCount | Badbird
 StaffToggle                 | Custom   | https://github.com/SemiVanilla-MC/StaffToggle | Badbird
 TabList                     | Public   | https://www.spigotmc.org/resources/animated-tab-tablist.46229/ | | NA
 Vault                       | Public   | https://www.spigotmc.org/resources/vault.34315/ | | NA

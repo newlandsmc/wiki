@@ -52,6 +52,7 @@ PortalTrapFix               | Custom   | https://github.com/SemiVanilla-MC/Porta
 PremiumVanish               | Premium  | https://www.spigotmc.org/resources/premiumvanish-stay-hidden-bungee-support.14404/ | | NA
 ProtectedSpawners           | Custom   | | https://github.com/SemiVanilla-MC/ProtectedSpawners | Destro
 ProtocolLib                 | Public   | https://www.spigotmc.org/resources/protocollib.1997/ | https://ci.dmulloy2.net/job/ProtocolLib/lastSuccessfulBuild/ | NA
+RespawnHandler              | Custom   | | https://github.com/SemiVanilla-MC/RespawnHandler | Cookie
 SquareMap                   | Public   | https://github.com/jpenilla/squaremap | https://jenkins.jpenilla.xyz/job/squaremap/ | NA
 SquareMapPlayers            | Custom   | | https://github.com/SemiVanilla-MC/SquaremapPlayers | Destro
 squaremap-towny             | Public   | | https://github.com/ar00n/squaremap-Towny | NA

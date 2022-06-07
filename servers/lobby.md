@@ -18,10 +18,11 @@ ChatFilter                  | Public   | https://www.spigotmc.org/resources/chat
 EssentialsX                 | Public   | https://essentialsx.net/downloads.html | | NA
 EssentialsXSpawn            | Public   | https://essentialsx.net/downloads.html | | NA
 Floodgate                   | Public   | | https://github.com/GeyserMC/Floodgate/ | NA
-GSit                        | Public   | https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-14-x-1-18-x.62325/ | | NA
 HelpPlugin                  | Custom   | | https://github.com/SemiVanilla-MC/HelpPlugin | Badbird
 HolographicDisplays         | Public   | https://dev.bukkit.org/projects/holographic-displays | https://ci.codemc.io/job/filoghost/job/HolographicDisplays/changes | NA
+LiteBans                    | Premium  | https://www.spigotmc.org/resources/litebans.3715/ | | NA
 LuckPerms                   | Public   | https://luckperms.net/download | | NA
+Parkour                     | Public   | https://www.spigotmc.org/resources/parkour.23685/ | | NA
 PlaceholderAPI              | Public   | https://www.spigotmc.org/resources/placeholderapi.6245/ | | NA
 PremiumVanish               | Premium  | https://www.spigotmc.org/resources/premiumvanish-stay-hidden-bungee-support.14404/ | | NA
 ProtocolLib                 | Public   | https://www.spigotmc.org/resources/protocollib.1997/ | https://ci.dmulloy2.net/job/ProtocolLib/lastSuccessfulBuild/ | NA
@@ -34,4 +35,11 @@ ViaVersion                  | Public   | https://www.spigotmc.org/resources/viav
 VoidGen                     | Public   | https://www.spigotmc.org/resources/voidgen.25391/ | | NA
 VoidSpawn                   | Public   | https://www.spigotmc.org/resources/voidspawn.19350/ | | NA
 WorldEdit                   | Public   | https://dev.bukkit.org/projects/worldedit/files | https://builds.enginehub.org/job/worldedit?branch=master | NA
+WorldGuardExtraFlags        | Public   | https://www.spigotmc.org/resources/worldguard-extra-flags.4823/ | https://github.com/aromaa/WorldGuardExtraFlagsPlugin/releases | NA
 WorldGuard                  | Public   | https://dev.bukkit.org/projects/worldguard/files | https://builds.enginehub.org/job/worldguard | NA
+
+**DISABLED:**
+
+Plugin                      |   Type   |  Main Page  | Dev Build | Maintainer
+--------------------------- | -------- | ----------- | --------- | -------------
+GSit                        | Public   | https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-14-x-1-18-x.62325/ | | NA

@@ -1,6 +1,6 @@
 # Asthonia
 
-Asthonia is a PVE survival RPG server focused on having a friendly, inviting community. We're one of those servers you come to call home. This is a casual server designed for those who want to join an active and friendly community and have a place to relax and chat, even if not actively playing.
+Asthonia is our PVE-only survival server. This is a casual server inspired by classic survival servers of the past. Asthonia offers RPG skills and abilities, custom enchants, and land claiming, in a vanilla 1.18.2 world.
 
 ## Server version:
 
@@ -24,36 +24,33 @@ CommandResponder            | Custom   | | https://github.com/SemiVanilla-MC/Com
 CookieCore                  | Custom   | | https://github.com/SemiVanilla-MC/CookieCore | Cookie
 CoreProtect                 | Public   | https://www.spigotmc.org/resources/coreprotect.8631/ | | NA
 CustomMOTD                  | Custom   | | https://github.com/SemiVanilla-MC/CustomMOTD | Destro
-disablechorusfruit          | Public   | https://www.spigotmc.org/resources/chorus-fruit-disabler.87767/ | | NA
-DummyMobs                   | Custom   | | https://github.com/SemiVanilla-MC/DummyMobs | Alen_Alex
+DifficultMobs               | Custom   | https://github.com/SemiVanilla-MC/DifficultMobs | | Badbird
 EssentialsX                 | Public   | https://essentialsx.net/downloads.html | | NA
-Exhaustion                  | Premium  | https://www.spigotmc.org/resources/exhaustion.73031/ | | NA
 Expeditions                 | Custom   | | https://github.com/SemiVanilla-MC/Expeditions-2.0 | Badbird
 FarmLimiter                 | Premium  | https://www.spigotmc.org/resources/farm-limiter.1419/ | | NA
 Floodgate                   | Public   | | https://github.com/GeyserMC/Floodgate/ | NA
 GameruleManager             | Custom   | | https://github.com/SemiVanilla-MC/GameruleManager | Destro
 GriefPrevention             | Public   | https://www.spigotmc.org/resources/griefprevention.1884/ | https://ci.appveyor.com/project/RoboMWM39862/griefprevention/history | NA
-GSit                        | Public   | https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-14-x-1-18-x.62325/ | | NA
+GriefPreventionTp           | Custom   | ? | | Badbird
 HelpPlugin                  | Custom   | | https://github.com/SemiVanilla-MC/HelpPlugin | Badbird
 HolographicDisplays         | Public   | https://dev.bukkit.org/projects/holographic-displays | https://ci.codemc.io/job/filoghost/job/HolographicDisplays/changes | NA
 JakesRTP                    | Public   | https://www.spigotmc.org/resources/jakes-rtp.80201/ | | NA
 JoinHandler                 | Custom   | | https://github.com/SemiVanilla-MC/JoinHandler | Cookie
-LibsDisguises               | Premium  | https://www.spigotmc.org/resources/libs-disguises.32453/ | | NA
+LiteBans                    | Premium  | https://www.spigotmc.org/resources/litebans.3715/ | | NA
 LiveAtlas                   | Public   | https://www.spigotmc.org/resources/liveatlas-alternative-map-ui-dynmap-pl3xmap-squaremap.86939/ | | NA
 LuckPerms                   | Public   | https://luckperms.net/download | | NA
-MythicMobs                  | Premium  | https://mythiccraft.io/index.php?pages/official-mythicmobs-download/ | | NA
 NoBedRespawnHandler         | Custom   | | ? | ?
 nuVotifier                  | Public   | https://www.spigotmc.org/resources/nuvotifier.13449/ | | NA
-PearlFix                    | Custom   | https://github.com/SemiVanilla-MC/PearlFix | Badbird
+PearlFix                    | Custom   | https://github.com/SemiVanilla-MC/PearlFix | | Badbird
 PlaceholderAPI              | Public   | https://www.spigotmc.org/resources/placeholderapi.6245/ | | NA
-PortalTrapFix               | Custom   | https://github.com/SemiVanilla-MC/PortalTrapFix | Badbird
+PortalTrapFix               | Custom   | https://github.com/SemiVanilla-MC/PortalTrapFix | | Badbird
 PremiumVanish               | Premium  | https://www.spigotmc.org/resources/premiumvanish-stay-hidden-bungee-support.14404/ | | NA
 ProtectedSpawners           | Custom   | | https://github.com/SemiVanilla-MC/ProtectedSpawners | Destro
 ProtocolLib                 | Public   | https://www.spigotmc.org/resources/protocollib.1997/ | https://ci.dmulloy2.net/job/ProtocolLib/lastSuccessfulBuild/ | NA
 RespawnHandler              | Custom   | | https://github.com/SemiVanilla-MC/RespawnHandler | Cookie
 squaremap-griefprevention   | Public   | | https://github.com/jpenilla/squaremap-addons | NA
 squaremap                   | Public   | https://github.com/jpenilla/squaremap | https://jenkins.jpenilla.xyz/job/squaremap/ | NA
-StaffToggle                 | Custom   | https://github.com/SemiVanilla-MC/StaffToggle | Badbird
+StaffToggle                 | Custom   | https://github.com/SemiVanilla-MC/StaffToggle | | Badbird
 TabList                     | Public   | https://www.spigotmc.org/resources/animated-tab-tablist.46229/ | | NA
 TradeSystem                 | Public   | https://www.spigotmc.org/resources/trade-system-custom-layouts.58434/ | | NA
 Vault                       | Public   | https://www.spigotmc.org/resources/vault.34315/ | | NA
@@ -70,14 +67,20 @@ Plugin                      |   Type   |  Main Page  | Dev Build | Maintainer
 AFKPlus                     | Public   | https://www.spigotmc.org/resources/afk.35065/ | | NA
 AnnouncerPlus               | Public   | https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/ | | NA
 BuycraftX                   | Public   | https://server.tebex.io/ | | NA
+disablechorusfruit          | Public   | https://www.spigotmc.org/resources/chorus-fruit-disabler.87767/ | | NA
+DummyMobs                   | Custom   | | https://github.com/SemiVanilla-MC/DummyMobs | Alen_Alex
 ChunkyBorder                | Public   | https://www.spigotmc.org/resources/chunkyborder.84278/ | | NA
 EnderDragonTweaks           | Custom   | | https://github.com/SemiVanilla-MC/EnderDragonTweaks | Destro
 EndRespawn                  | Custom   | | https://github.com/SemiVanilla-MC/EndRespawn | Badbird
 EssentialsXChat             | Public   | https://essentialsx.net/downloads.html | | NA
+Exhaustion                  | Premium  | https://www.spigotmc.org/resources/exhaustion.73031/ | | NA
+GSit                        | Public   | https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-14-x-1-18-x.62325/ | | NA
 Lands                       | Premium  | https://www.spigotmc.org/resources/lands-land-claim-plugin-grief-prevention-protection-gui-management-nations-wars-1-18-support.53313/ | | NA
+LibsDisguises               | Premium  | https://www.spigotmc.org/resources/libs-disguises.32453/ | | NA
 LWCTrust                    | Public   | https://www.spigotmc.org/resources/lwc-trust.75580/ | | NA
 LWCX                        | Public   | https://www.spigotmc.org/resources/lwc-extended.69551/ | | NA
 mcMMO                       | Public   | https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/updates | | NA
+MythicMobs                  | Premium  | https://mythiccraft.io/index.php?pages/official-mythicmobs-download/ | | NA
 Pl3xMap                     | Public   | https://github.com/NeumimTo/Pl3xMap | | NA
 RegexFilter                 | Public   | https://www.spigotmc.org/resources/regexfilter.96416/ | | NA
 StaffChat                   | Public   | https://www.spigotmc.org/resources/1-7-1-18-staff-chat.92585/ | | NA

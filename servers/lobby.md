@@ -4,7 +4,7 @@ Portal to get to both servers. Required for bedrock clients.
 
 ## Server version:
 
-Paper MC v1.18.2
+Paper MC v1.19.2
 
 ## Plugins:
 

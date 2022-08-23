@@ -4,7 +4,7 @@ Routes traffic to all servers. Handles all incoming connections.
 
 ## Server version:
 
-Velocity (latest dev version)
+Waterfall (latest dev version)
 
 ## Plugins:
 

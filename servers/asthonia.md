@@ -12,7 +12,6 @@ Plugin                      |   Type   |  Main Page  | Dev Build | Maintainer
 --------------------------- | -------- | ----------- | --------- | -------------
 AdvancedEnchantments         | Premium  | https://www.spigotmc.org/resources/1-8-1-18-1-%E2%AD%95-advancedenchantments-%E2%AD%90-450-custom-enchants-%E2%AD%90create-custom-enchantments-%E2%9C%85-50-sale.43058/ | | NA
 Announcer                   | Custom   | https://github.com/SemiVanilla-MC/Announcer | | Badbird
-AntiCombatLog               | Public   | https://www.spigotmc.org/resources/anticombatlog.94540/ | | NA
 AntiLavaLockout             | Custom   | https://github.com/SemiVanilla-MC/AntiLavaLogout | | Badbird
 AureliumSkills              | Public   | https://www.spigotmc.org/resources/aurelium-skills-advanced-skills-stats-abilities-and-more.81069/ | | NA
 BetterCommandSpy            | Public   | https://www.spigotmc.org/resources/bettercommandspy.84030/ | | NA
@@ -69,6 +68,7 @@ Plugin                      |   Type   |  Main Page  | Dev Build | Maintainer
 --------------------------- | -------- | ----------- | --------- | -------------
 AFKPlus                     | Public   | https://www.spigotmc.org/resources/afk.35065/ | | NA
 AnnouncerPlus               | Public   | https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/ | | NA
+AntiCombatLog               | Public   | https://www.spigotmc.org/resources/anticombatlog.94540/ | | NA
 BuycraftX                   | Public   | https://server.tebex.io/ | | NA
 disablechorusfruit          | Public   | https://www.spigotmc.org/resources/chorus-fruit-disabler.87767/ | | NA
 DummyMobs                   | Custom   | | https://github.com/SemiVanilla-MC/DummyMobs | Alen_Alex

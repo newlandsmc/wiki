@@ -14,6 +14,8 @@ https://github.com/SemiVanilla-MC/Surveyor/tree/main
 
 https://github.com/SemiVanilla-MC/DropCrates/blob/main/README.md
 
+to be done by byteful
+
 ## Crates updates
 
 Rename plugin to crates and replace every instance of "expedition" with "crate" in code, commands, messages, etc

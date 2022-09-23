@@ -10,6 +10,10 @@ in progress by Zhro
 
 https://github.com/SemiVanilla-MC/Surveyor/tree/main
 
+## DropCrates plugin
+
+https://github.com/SemiVanilla-MC/DropCrates/blob/main/README.md
+
 ## Crates updates
 
 Rename plugin to crates and replace every instance of "expedition" with "crate" in code, commands, messages, etc

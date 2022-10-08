@@ -28,6 +28,8 @@ Add more save file triggers (on vote received? on player logout? every X minutes
 
 Prevent rolling same item/enchant more than once
 
+Fix AE integration
+
 ## Help Plugin updates
 
 Make the help GUI more customizable (I want to be able to add as many or as few menu items as I want, specify exactly where they should be in the GUI, and specify what book they will open)

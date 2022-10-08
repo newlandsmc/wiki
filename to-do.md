@@ -12,9 +12,13 @@ https://github.com/SemiVanilla-MC/Surveyor/tree/main
 
 ## DropCrates plugin
 
-https://github.com/SemiVanilla-MC/DropCrates/blob/main/README.md
+Fix broadcasts
 
-to be done by byteful
+Add reusing same loottables for multiple chests
+
+Configure loottables
+
+Create schematics
 
 ## Crates updates
 

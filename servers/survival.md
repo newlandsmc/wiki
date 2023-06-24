@@ -1,10 +1,10 @@
-# Asthonia
+# Survival
 
-Asthonia is our PVE-only survival server. This is a casual server inspired by classic survival servers of the past. Asthonia offers RPG skills and abilities, custom enchants, and land claiming, in a vanilla 1.18.2 world.
+The survival server for New Lands MC.
 
 ## Server version:
 
-Paper MC v1.19.2
+Paper MC v1.19.3
 
 ## Plugins:
 

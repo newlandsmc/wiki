@@ -1,4 +1,4 @@
-# Survival
+# SemiVanilla
 
 The survival server for SemiVanilla.
 

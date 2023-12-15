@@ -1,24 +1,37 @@
-# Super Minecraft Servers Wiki
+# NewLands MC Wiki
 
-Welcome, this is the administrative wiki for Super Minecraft Servers.
+## Host
 
-## Developers:
-Developer |   Discord   | Github
---------- | ----------- | ---------
-~A4Papers~  | ~A4Papers#3211~ | ~A4Papers~
-~Alen_Alex~ | ~< 𝓐𝓵𝓮𝓷_𝓐𝓵𝓮𝔁 !>#3836~ | ~AlenGeoAlex~
-Badbird   | Badbird5907#5907 | Badbird-5907
-~Cookie~    | ~Cookie#8723~ | ~GoldenCookieGIT~
-Destro    | Destro#9563 | destro174
+NewLandsMC was hosted on a Rocky Linux machine. Start with a standard installation of Rocky Linux and then use this repo to identify all config changes, packages to install, and users to create to get the host ready: https://github.com/newlandsmc/host
 
-## Hosts:
+## Plugins
 
-Hosts are documented here:
+NewLandsMC used a collection of public, premium, and custom plugins. A list of the plugins installed is available here: https://github.com/newlandsmc/wiki/tree/main/servers
 
-[https://github.com/superminecraftservers/host](https://github.com/superminecraftservers/host)
+Most custom plugins have repositories in this org and can be compiled from source.
 
-## ~Logo/Images:~
+## Configs
 
-~Logo and other images are stored here:~
+Every server has a repo in this org that was regularly synced with the host. It is therefore a backup of all the configs that were running live on that server.
 
-~[https://github.com/SemiVanilla-MC/logo](https://github.com/SemiVanilla-MC/logo)~
+Newlands survival - https://github.com/newlandsmc/newlands-survival1201
+Newlands creative - https://github.com/newlandsmc/creative-server
+Newlands lobby - https://github.com/newlandsmc/lobby-server
+Newlands proxy - https://github.com/newlandsmc/proxy-server
+
+There are also repos for the semivanilla servers.
+
+## Data
+
+Player/world data was not stored in github. Backups were kept locally. From 12/14/23 to 1/12/24 these backups are available to the public here: https://drive.google.com/drive/folders/1ZcH51v6ASBs4CDjqqf8Hr3rp2y53I5Kr?usp=drive_link
+
+You can start a server without this data, it will just be a fresh new server instead of a restore of NewLandsMC.
+
+## ETC
+
+Other repos available in this org include:
+
+- Website
+- Datapack
+- Lootcrates configs
+- ~~Logos~~ Now in Google Drive (available 12/14/23 to 1/12/24 here: https://drive.google.com/drive/folders/1ZcH51v6ASBs4CDjqqf8Hr3rp2y53I5Kr?usp=drive_link)

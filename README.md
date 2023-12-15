@@ -34,4 +34,4 @@ Other repos available in this org include:
 - Website
 - Datapack
 - Lootcrates configs
-- ~~Logos~~ Now in Google Drive (available 12/14/23 to 1/12/24 here: https://drive.google.com/drive/folders/1ZcH51v6ASBs4CDjqqf8Hr3rp2y53I5Kr?usp=drive_link)
+- ~~Logos~~ Now in Google Drive (private)

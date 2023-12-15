@@ -14,10 +14,10 @@ Most custom plugins have repositories in this org and can be compiled from sourc
 
 Every server has a repo in this org that was regularly synced with the host. It is therefore a backup of all the configs that were running live on that server.
 
-Newlands survival - https://github.com/newlandsmc/newlands-survival1201
-Newlands creative - https://github.com/newlandsmc/creative-server
-Newlands lobby - https://github.com/newlandsmc/lobby-server
-Newlands proxy - https://github.com/newlandsmc/proxy-server
+- Newlands survival - https://github.com/newlandsmc/newlands-survival1201
+- Newlands creative - https://github.com/newlandsmc/creative-server
+- Newlands lobby - https://github.com/newlandsmc/lobby-server
+- Newlands proxy - https://github.com/newlandsmc/proxy-server
 
 There are also repos for the semivanilla servers.
 

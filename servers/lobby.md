@@ -4,7 +4,9 @@ Portal to get to both servers on New Lands MC. Required for bedrock clients.
 
 ## Server version:
 
-Paper MC v1.19.3
+Paper MC v1.20.2
+
+_Plugins list is outdated, last updated june 24th, 2023._
 
 ## Plugins:
 

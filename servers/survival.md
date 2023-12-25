@@ -4,7 +4,9 @@ The survival server for New Lands MC.
 
 ## Server version:
 
-Paper MC v1.19.3
+Paper MC v1.20.2
+
+_Plugins list is outdated, last updated june 24th, 2023._
 
 ## Plugins:
 
